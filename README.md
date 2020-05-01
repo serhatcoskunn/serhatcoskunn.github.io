@@ -1,1 +1,0 @@
-# serhatcoskunn.github.io
