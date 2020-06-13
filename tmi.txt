@@ -1,0 +1,3864 @@
+[
+
+  {
+    "CityId": 35,
+    "CityName": "İZMİR(TEST)",
+    "CityImage": "http://i.hurimg.com/i/hurriyet/75/750x422/59311ef3c03c0e3efce6f4f4.jpg",
+    "IsActive": false,
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Havagazı Fabrikası",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=17",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 2,
+        "CamName": "Narlıdere",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=47",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 3,
+        "CamName": "Aşık Veysel Rekreasyon Alanı",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=27",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 4,
+        "CamName": "Besmane Meydanı",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=2",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 5,
+        "CamName": "Fuar Yunuslar Yolu",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=53",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 6,
+        "CamName": "Lozan Meydanı",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=56",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 7,
+        "CamName": "Mavişehir",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=30",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 8,
+        "CamName": "Gündoğdu Meydanı",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=39",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 9,
+        "CamName": "Kordon 2",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=55",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 10,
+        "CamName": "Saat Kulesi",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=31",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 11,
+        "CamName": "İzmir Körfezi 1",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=15",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 12,
+        "CamName": "Konak Pier",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=19",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 13,
+        "CamName": "Bostanlı",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=14",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 14,
+        "CamName": "İnciraltı Kent Ormanı",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=23",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 15,
+        "CamName": "Teleferik",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=46",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 16,
+        "CamName": "Buca Çevik Bir Meydanı",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=57",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 17,
+        "CamName": "Kordon 3",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=66",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      },
+      {
+        "Id": 18,
+        "CamName": "Foça Demokrasi Meydanı",
+        "CamLink": "http://kentkameralari.izmir.bel.tr/webservices?service=player&streamId=67",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 35
+      }
+    ]
+  },
+  {
+    "CityId": 3,
+    "CityName": "AFYON",
+    "CityImage": "https://gezimanya.com/sites/default/files/styles/650xheight/public/simdi-afyonkarahisar-mevsimindeyiz-02_2f9a934276811bcb3b3324100591c35d.jpg?itok=GOr0MURV",
+    "IsActive": false,
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Şehir Merkezi",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/imaret.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Akarçay",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/Akarcay_1.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Akarçay 2",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/Akarcay_2.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Akarçay Manzara",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/Akarcay_Manzara.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Akarçay İskele",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/iskele.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "||.Dumlupınar Caddesi",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/cadde_2.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 7,
+        "CamName": "Anıtpark",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/Anitpark.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 8,
+        "CamName": "Fuar Alanı",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/Fuar_1.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 9,
+        "CamName": "Fuar Alanı 2",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/Fuar_2.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 10,
+        "CamName": "Nikah Salonu(Masa)",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/Nikah_Masasi/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 11,
+        "CamName": "Nikah Salonu",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/Nikah_Salonu/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 12,
+        "CamName": "Bedesten Önü-Afyon Kalesi",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/Bedesten/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 13,
+        "CamName": "Kent Meydanı",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/Kent_Meydani/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 14,
+        "CamName": "İmaret Caddesi",
+        "CamLink": "http://win7.yayin.com.tr/afyonbelediyesi/imaret_cami/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 6,
+    "CityName": "ANKARA",
+    "CityImage": "https://www.anadolujet.com/documents/_thumbs/ankara-genel_quality_90.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Odtü Bilgi İşlem Dairesi",
+        "CamLink": "http://teos.cc.metu.edu.tr:1935/bidb/bidb.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Odtü Eğitim Fakültesi",
+        "CamLink": "http://teos.cc.metu.edu.tr:1935/egitim/egitim.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Odtü Yurtlar Bölgesi",
+        "CamLink": "http://teos.cc.metu.edu.tr:1935/yurtlar/yurtlar.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Odtü Merkezi Mühendislik",
+        "CamLink": "http://teos.cc.metu.edu.tr:1935/yurtlar/yurtlar.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Odtü Merkezi Mühendislik 2",
+        "CamLink": "http://teos.cc.metu.edu.tr:1935/mm2/mm2.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "Odtü Merkezi Mühendislik 3",
+        "CamLink": "http://teos.cc.metu.edu.tr:1935/mm3/mm3.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": false,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 7,
+    "CityName": "ANTALYA",
+    "CityImage": "https://i.sozcu.com.tr/wp-content/uploads/2019/11/20/iecrop/antalya-aa_16_9_1574267766.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Alanya-Rıhtım",
+        "CamLink": "https://stream.hosthane.com/WebRTCApp/streams/969345961350232170571803.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Alanya-Tosmur Mah.",
+        "CamLink": "https://stream.hosthane.com/WebRTCApp/streams/539390456545357249295779.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Alanya-Oba Mah.",
+        "CamLink": "https://stream.hosthane.com/WebRTCApp/streams/951445844374857701067765.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Alanya-Mola Meydanı",
+        "CamLink": "https://stream.hosthane.com/WebRTCApp/streams/353021869134321455558028.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Alanya-Belediye Arkası",
+        "CamLink": "https://stream.hosthane.com/WebRTCApp/streams/958873376837350444646225.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "Alanya-Damlataş",
+        "CamLink": "https://stream.hosthane.com/WebRTCApp/streams/392112785654288641567141.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 8,
+    "CityName": "ARTVİN",
+    "CityImage": "http://www.artvinden.com/wp-content/uploads/2017/09/artvin.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Şavşat Cumhuriyet Caddesi 1",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Sav102/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Şavşat Cumhuriyet Caddesi 2",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Sav202/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Şavşat Cumhuriyet Caddesi 3",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Sav902/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Şavşat Cumhuriyet Caddesi 4",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Sav802/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Şavşat İnönü Caddesi",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Sav302/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "Şavşat Düğün Salonu Önü",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Sav1002/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 7,
+        "CamName": "Şavşat Yeni Cadde",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Sav402/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 8,
+        "CamName": "Şavşat Yeni Cadde 2",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Sav502/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 9,
+    "CityName": "AYDIN",
+    "CityImage": "http://www.okulrehberlik.com/wp-content/uploads/2016/10/aydin.jpg",
+    "IsActive": false,
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Bozdoğan Yazıkent",
+        "CamLink": "http://win6.yayin.com.tr/Bozdogan/Aysan159/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Bozdoğan Muğla Caddesi",
+        "CamLink": "http://win6.yayin.com.tr/Bozdogan/MuglaCad15/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Bozdoğan Okullar Caddesi",
+        "CamLink": "http://win6.yayin.com.tr/Bozdogan/yeniokk/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 17,
+    "CityName": "ÇANAKKALE",
+    "CityImage": "https://www.etstur.com/letsgo/wp-content/uploads/2018/11/canakkale-gezilecek-yerler.png",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Gökçeada - Kuzulimanı İskele",
+        "CamLink": "http://yayin.basturkelektronik.com:8080/live/adateknom3.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Gökçeada - Cumhuriyet Meydanı",
+        "CamLink": "http://yayin.basturkelektronik.com:8080/live/adateknom1.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 18,
+    "CityName": "ÇANKIRI",
+    "CityImage": "http://i2.haber7.com//haber/haber7/photos/2017/35/cankiri_kurban_bayrami_namazi_tam_saat_kacta_2017_1504010902_366.jpg",
+    "IsActive": false,
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Atatürk Bulvarı",
+        "CamLink": "http://win11.yayin.com.tr/cankiribel/Ataturk_bulvari/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Çankırı Kalesi",
+        "CamLink": "http://win11.yayin.com.tr/cankiribel/Cankiri_kalesi/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Büyük Cami",
+        "CamLink": "http://win11.yayin.com.tr/cankiribel/Buyuk_cami/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Çankırı Meydan",
+        "CamLink": "http://win11.yayin.com.tr/cankiribel/Ahmet_yesevi_meydan/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 20,
+    "CityName": "DENİZLİ",
+    "CityImage": "http://www.denizli.org/wp-content/uploads/2016/12/denizli-horozu.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "15 Temmuz Delikliçınar Şehitler Meydanı-1",
+        "CamLink": "http://212.175.207.19:1935/canliyayin/Belediye2cam.stream/chunklist_w825907507.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "15 Temmuz Delikliçınar Şehitler Meydanı-2",
+        "CamLink": "http://212.175.207.19:1935/canliyayin/Belediye1cam.stream/chunklist_w83519068.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Laodikeia",
+        "CamLink": "http://212.175.207.19:1935/canliyayin/laodikyacam.stream/chunklist_w587343482.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Teleferik",
+        "CamLink": "http://212.175.207.19:1935/canliyayin/Teleferikcam.stream/chunklist_w132654701.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": false,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Bağbaşı Yaylası",
+        "CamLink": "http://212.175.207.19:1935/canliyayin/Yaylacam.stream/chunklist_w1837039266.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "Çamlık Parkı",
+        "CamLink": "http://212.175.207.19:1935/canliyayin/camlikcam.stream/chunklist_w1357574642.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 7,
+        "CamName": "İncirlipınar Parkı",
+        "CamLink": "http://212.175.207.19:1935/canliyayin/incilipinarcam.stream/chunklist_w1859625591.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 8,
+        "CamName": "Adalet Parkı",
+        "CamLink": "http://212.175.207.19:1935/canliyayin/adaletparkcam.stream/chunklist_w177677353.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 9,
+        "CamName": "Üçgen Meydanı",
+        "CamLink": "http://212.175.207.19:1935/canliyayin/otogarcam.stream/chunklist_w2133580649.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 10,
+        "CamName": "Bayramyeri Meydanı",
+        "CamLink": "http://212.175.207.19:1935/canliyayin/bayramyericam.stream/chunklist_w795597991.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 29,
+    "CityName": "GÜMÜŞHANE",
+    "CityImage": "http://gumushaneekspres.com/resimler/gumushanede-krediler-alarm-veriyor_52e46_d06937a5e3af7f4e9f19.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Özkürtün 1",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Ozkurtun502/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Özkürtün 4",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Ozkurtun1002/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Özkürtün 5",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Ozkurtun1102/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Özkürtün 6",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Ozkurtun1202/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Özkürtün 8",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/akce/Ozkurtun14/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 34,
+    "CityName": "İSTANBUL",
+    "CityImage": "https://d15gqlu8dfiqiu.cloudfront.net/s3fs-public/styles/banner/public/images/chapters/Istanbul-Travel-Massive.jpg",
+    "CamCount": 0,
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Avcılar Hacışerif D100",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/73.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Tem Elmalı",
+        "CamLink": "rtmp://ibb-media1.ibb.gov.tr:1935/live/333.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Tem Ataşehir",
+        "CamLink": "rtmp://ibb-media1.ibb.gov.tr:1935/live/306.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Tem KüçükbakkalKöy",
+        "CamLink": "rtmp://ibb-media2.ibb.gov.tr:1935/live/365.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Kozyatağı",
+        "CamLink": "rtmp://ibb-media2.ibb.gov.tr:1935/live/476.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "D 100 Yenisahra",
+        "CamLink": "rtmp://ibb-media2.ibb.gov.tr/live/487.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 7,
+        "CamName": "D 100 Bostancı Kavşağı",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/84.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 8,
+        "CamName": "Göztepe Kavşağı D100",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/101.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 9,
+        "CamName": "Mecidiyeköy Cevahir AVM",
+        "CamLink": "rtmp://ibb-media1.ibb.gov.tr/live/222.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 10,
+        "CamName": "Pendik Kavşağı",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/149.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 11,
+        "CamName": "Çobançeşme Kavşağı",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/94.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 12,
+        "CamName": "Metroport",
+        "CamLink": "rtmp://ibb-media2.ibb.gov.tr/live/563.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 13,
+        "CamName": "Zincirlikuyu",
+        "CamLink": "rtmp://ibb-media2.ibb.gov.tr/live/564.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 14,
+        "CamName": "D100 Okmeydanı",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/147.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 15,
+        "CamName": "Boğaziçi Köprüsü",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/79.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 16,
+        "CamName": "D100 Boğaziçi",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/81.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 17,
+        "CamName": "Altunizade",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/68.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 18,
+        "CamName": "Vatan Caddesi",
+        "CamLink": "rtmp://ibb-media2.ibb.gov.tr/live/406.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 19,
+        "CamName": "Yenikapı",
+        "CamLink": "rtmp://ibb-media1.ibb.gov.tr/live/274.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 20,
+        "CamName": "Saraçhane",
+        "CamLink": "rtmp://ibb-media1.ibb.gov.tr/live/278.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 21,
+        "CamName": "Büyükdere Gültepe",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/52.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 22,
+        "CamName": "Darülceze",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/97.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 23,
+        "CamName": "Bayrampaşa",
+        "CamLink": "rtmp://ibb-media1.ibb.gov.tr/live/228.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 24,
+        "CamName": "D 100 Mecidiyeköy",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/140.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 25,
+        "CamName": "Eminönü Yeni Camii",
+        "CamLink": "rtmp://ibb-media1.ibb.gov.tr/live/181.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 26,
+        "CamName": "Beşiktaş Meydanı",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/43.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 27,
+        "CamName": "D 100 Koşuyolu",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/130.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 28,
+        "CamName": "Bahçelievler Kıbrıs Parkı 2",
+        "CamLink": "rtmp://195.175.208.86/live/kibrisparki2.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 29,
+        "CamName": "Bahçelievler Kıbrıs Parkı 3",
+        "CamLink": "rtmp://195.175.208.86/live/kibrisparki3.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 30,
+        "CamName": "Bahçelievler Fetih Parkı 1",
+        "CamLink": "rtmp://195.175.208.86/live/fetih1.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 31,
+        "CamName": "Bahçelievler Fetih Parkı 2",
+        "CamLink": "rtmp://195.175.208.86/live/fetih2.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 32,
+        "CamName": "Havalimanı Yolu",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr:1935/live/13.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 33,
+        "CamName": "Kadıköy",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/17.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 34,
+        "CamName": "Eyüp Feshane",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/45.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 35,
+        "CamName": "Beylikdüzü",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/78.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 36,
+        "CamName": "D100 Florya Kavşağı",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/99.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 37,
+        "CamName": "78-D100 Hadımköy",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/78.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 38,
+        "CamName": "613-D100 Beylikdüzü Cumh.",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/613.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 39,
+        "CamName": "168-D100 Beylikdüzü",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/168.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 40,
+        "CamName": "D100 Haramidere",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/112.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 41,
+        "CamName": "610-D100 Ambarlı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/610.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 42,
+        "CamName": "75-D100 Avcılar Parseller",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/75.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 43,
+        "CamName": "D100 Avcılar Cihangir",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/611.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 44,
+        "CamName": "D100 Avcılar",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/72.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 45,
+        "CamName": "D100 Avcılar Şükrübey",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/612.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 46,
+        "CamName": "D100 Avcılar Hacışerif",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/73.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 47,
+        "CamName": "D100 Küçük Çekmece",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/535.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 48,
+        "CamName": "D100 K.Çekmece Kavşak",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/134.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 49,
+        "CamName": "D100 Florya",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/99.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 50,
+        "CamName": "D100 Sefaköy",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/120.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 51,
+        "CamName": "D100 Çoban Çeşme",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/94.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 52,
+        "CamName": "Atatürk Havalimanı",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/13.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 53,
+        "CamName": "Sahil Yolu Ataköy 2",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/9.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 54,
+        "CamName": "Sahil Yolu Bakırköy",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/258.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 55,
+        "CamName": "Sahil Yolu Z.Burnu 2",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/256.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 56,
+        "CamName": "Sahil Yolu Z.Burnu 1",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/255.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 57,
+        "CamName": "Sahil Yolu Yedi Kule",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/273.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 58,
+        "CamName": "Yedikule",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/581.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 59,
+        "CamName": "Sahil Yolu Samatya 1",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/269.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 60,
+        "CamName": "Sahil Yolu Yenikapı",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/274.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 61,
+        "CamName": "Sahil Yolu Kumkapı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/573.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 62,
+        "CamName": "Sahil Yolu Sirkeci",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/282.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 63,
+        "CamName": "Eminönü Yeni Cami",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/181.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 64,
+        "CamName": "Saraçhane Vezneciler",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/614.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 65,
+        "CamName": "Saraçhane İBB",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/278.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 66,
+        "CamName": "Aksaray",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/3.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 67,
+        "CamName": "Vatan Caddesi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/406.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 68,
+        "CamName": "D100 Anıtmezar",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/69.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 69,
+        "CamName": "D100 Topkapı",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/164.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 70,
+        "CamName": "Topkapı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/397.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 71,
+        "CamName": "D100 Cevizlibağ",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/89.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 72,
+        "CamName": "D100 Merter DMS",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/145.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 73,
+        "CamName": "Tozkoparan",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/425.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 74,
+        "CamName": "D100 Merter",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/143.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 75,
+        "CamName": "Merter Cami",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/546.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 76,
+        "CamName": "D100 Beşyüz Evler",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/424.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 77,
+        "CamName": "10. Yıl 2",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/420.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 78,
+        "CamName": "D100 İncirli",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/117.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 79,
+        "CamName": "D100 Metroport",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/563.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 80,
+        "CamName": "D100 Şirinevler",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/161.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 81,
+        "CamName": "D100 Yenibosna",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/423.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 82,
+        "CamName": "D100 Çoban Çeşme",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/94.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 83,
+        "CamName": "Basın Ekspress Güneşli",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/33.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 84,
+        "CamName": "Mahmutbey Beşyol",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/654.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 85,
+        "CamName": "V.Recep Y.Oğlu Şirintepe Girişi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1030.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 86,
+        "CamName": "Bağcılar",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/663.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 87,
+        "CamName": "Yunus Emre Köprüsü",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/652.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 88,
+        "CamName": "Bağcılar Meydan",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/659.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 89,
+        "CamName": "Bağcılar Fatih Cad.",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/653.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 90,
+        "CamName": "Bayrampaşa Otogar",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/39.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 91,
+        "CamName": "Hal",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/230.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 92,
+        "CamName": "Bayrampaşa",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/228.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 93,
+        "CamName": "Yüzyıl Köprüsü",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/233.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 94,
+        "CamName": "Dünya Gazetesi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/648.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 95,
+        "CamName": "Tem Mahmutbey Doğu",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/369.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 96,
+        "CamName": "Tem İstoç",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/356.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 97,
+        "CamName": "Tem Mahmutbey Batı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/368.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 98,
+        "CamName": "Tem Halkalı",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/349.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 99,
+        "CamName": "Tem Bahçeşehir",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/310.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 100,
+        "CamName": "İkitelli Köprülü Kavşağı",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/196.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 101,
+        "CamName": "İkitelli Atatürk Bulvarı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/569.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 102,
+        "CamName": "Tem Tekstilkent",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/392.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 103,
+        "CamName": "Tem Metris",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/376.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 104,
+        "CamName": "Tem Küçükköy",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/642.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 105,
+        "CamName": "Tem Akşemseddin",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/302.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 106,
+        "CamName": "Tem Kemerburgaz Ayrımı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/361.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 107,
+        "CamName": "Hasdal Arıcılar",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/568.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 108,
+        "CamName": "Tem Hasdal",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/351.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 109,
+        "CamName": "Akom",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/2.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 110,
+        "CamName": "D100 Okmeydanı",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/147.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 111,
+        "CamName": "Eyüp Feshane",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/45.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 112,
+        "CamName": "Eyüp Zalpaşa",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/511.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 113,
+        "CamName": "Ayvansaray",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/14.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 114,
+        "CamName": "D100 Haliç Ayvansaray",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/148.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 115,
+        "CamName": "Atatürk Köprüsü",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/400.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 116,
+        "CamName": "Piyalepaşa Bulvarı 1",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/247.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 117,
+        "CamName": "Taksim Altgeçidi Tarlabaşı Girişi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1026.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 118,
+        "CamName": "Taksim Altg. Taşkışla Çıkışı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1025.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 119,
+        "CamName": "Taksim Altg. Elmadağı Çıkışı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1027.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 120,
+        "CamName": "Dolmabahçe Taksim Çıkışı",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/173.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 121,
+        "CamName": "Harbiye Altg. Taşkışla Girişi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1023.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 122,
+        "CamName": "Harbiye Altg. Nişantaşı Girişi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1022.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 123,
+        "CamName": "Harbiye",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/194.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 124,
+        "CamName": "Beşiktaş Meydanı",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/43.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 125,
+        "CamName": "D100 Darülaceze",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/97.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 126,
+        "CamName": "D100 Çağlayan",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/92.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 127,
+        "CamName": "Mecidiyeköy 1",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/222.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 128,
+        "CamName": "Mecidiyeköy Meydanı",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/223.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 129,
+        "CamName": "2364-Mecidiyeköy",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/549.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 130,
+        "CamName": "D100 Mecidiyeköy",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/140.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 131,
+        "CamName": "D100 Zincirlikuyu",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/564.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 132,
+        "CamName": "Balmumucu Altgeçidi Z.Kuyu Girişi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1034.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 133,
+        "CamName": "Barboros Bulvarı Esentepe",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/46.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 134,
+        "CamName": "Balmumucu Altgeçidi Balmumucu Girişi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1033.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 135,
+        "CamName": "15 Temmuz Şehitler Köprüsü",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/81.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 136,
+        "CamName": "Çırağan Caddesi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/560.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 137,
+        "CamName": "Büyükdere Caddesi Kanyon",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/57.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 138,
+        "CamName": "Büyükdere Caddesi Sanayi",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/60.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 139,
+        "CamName": "Tem Seyrantepe",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/386.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 140,
+        "CamName": "Tem FSM Gişeler",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/345.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 141,
+        "CamName": "Tem Etiler Katılımı",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/338.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 142,
+        "CamName": "Tem FSM Avrupa",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/344.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 143,
+        "CamName": "Büyükdere Caddesi Maslak",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/58.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 144,
+        "CamName": "Kemerburgaz Yolu 3",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/635.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 145,
+        "CamName": "447-3403 Spor Akademisi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/447.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 146,
+        "CamName": "Tem FSM Anadolu",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/341.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 147,
+        "CamName": "Tem Kavacık",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/359.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 148,
+        "CamName": "Tem Elmalı",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/333.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 149,
+        "CamName": "Tem Ümraniye",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/394.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 150,
+        "CamName": "Atakent",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/401.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 151,
+        "CamName": "Tem Çakmak Köprüsü",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/451.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 152,
+        "CamName": "Tantivi Tüneli Ümraniye Girişi",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/319.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 153,
+        "CamName": "Ümraniye Namazgah",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1028.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 154,
+        "CamName": "Libadiye",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/403.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 155,
+        "CamName": "Altunizade Tüneli",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/220.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 156,
+        "CamName": "D100 Altunizade",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/5.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 157,
+        "CamName": "15 Tem. Şehitler Köp. Anadolu",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/68.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 158,
+        "CamName": "Üsküdar Meydan",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/79.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 159,
+        "CamName": "Bağlarbaşı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/405.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 160,
+        "CamName": "Sahil Yolu Harem İdo",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/25.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 161,
+        "CamName": "Kadıköy Rıhtım",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/114.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 162,
+        "CamName": "Bağdat Cad. Göztepe",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/201.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 163,
+        "CamName": "Bağdat Cad. Ethem Efendi",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/19.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 164,
+        "CamName": "Bağdat Cad. Şaşkınbakkal",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/17.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 165,
+        "CamName": "Sahil Yolu Dragos",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/20.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 166,
+        "CamName": "İdo Eskihisar",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/263.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 167,
+        "CamName": "D100 Pendik",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/182.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 168,
+        "CamName": "D100 Güzelyalı",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/149.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 169,
+        "CamName": "D100 Kartal",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/108.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 170,
+        "CamName": "D100 Gülsuyu",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/124.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 171,
+        "CamName": "D100 Maltepe",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/102.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 172,
+        "CamName": "D100 Bostancı",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/138.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 173,
+        "CamName": "Kozyatağı",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/84.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 174,
+        "CamName": "D100 Göztepe",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/476.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 175,
+        "CamName": "D100 Koşuyolu",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/101.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 176,
+        "CamName": "Tem Çamlıca Gişeler",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/130.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 177,
+        "CamName": "Tem Dudullu Kavşağı",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/321.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 178,
+        "CamName": "Tem Dudullu",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/332.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 179,
+        "CamName": "Tem Ataşehir",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/331.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 180,
+        "CamName": "Tem Küçük Bakkalköy",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/306.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 181,
+        "CamName": "Bağdat Yolu M.Kemal",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/365.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 182,
+        "CamName": "Bağdat Yolu Libadiye",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/367.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 183,
+        "CamName": "D100 Acıbadem",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/366.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 184,
+        "CamName": "Şile Yolu Tepeüstü",
+        "CamLink": "http://ibb-media4.ibb.gov.tr:1935/live/66.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 185,
+        "CamName": "Şile Yolu Simpaş",
+        "CamLink": "http://ibb-media1.ibb.gov.tr:1935/live/292.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 186,
+        "CamName": "KCO Çavuşbaşı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/481.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 187,
+        "CamName": "KCO Çamlık",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/664.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 188,
+        "CamName": "KCO Reşadiye Shell",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/679.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 189,
+        "CamName": "KCO İshaklı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/678.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 190,
+        "CamName": "KCO Riva Tünel Güney",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/667.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 191,
+        "CamName": "KCO Riva Tünel Kuzey",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/676.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 192,
+        "CamName": "KCO Paşamandıra Viy. 24",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/675.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 193,
+        "CamName": "KCO Riva Tır Parkı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/682.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 194,
+        "CamName": "KCO Riva Kavşağı",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/674.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 195,
+        "CamName": "KCO And. Fen. Üst Geçidi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/673.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 196,
+        "CamName": "KCO And. Fen. Viy. 21",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/681.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 197,
+        "CamName": "KCO YSS Anadolu",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/672.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 198,
+        "CamName": "H.U Tün. Beykoz Girişi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/670.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 199,
+        "CamName": "H.U Tün. Riva Girişi",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1021.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 200,
+        "CamName": "Arnavutköy Haraççı Meydan",
+        "CamLink": "http://ibb-media2.ibb.gov.tr:1935/live/1020.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 201,
+        "CamName": "Avcılar Hacışerif D100",
+        "CamLink": "http://player.sehirkameralari.com/live/55155f6b9bf96/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 202,
+        "CamName": "Cevizlibağ Kamerası",
+        "CamLink": "rtmp://ibb-media4.ibb.gov.tr/live/73.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 46,
+    "CityName": "KAHRAMANMARAŞ",
+    "CityImage": "https://kahramanmaras.bel.tr/fs/fields/image_gallery/gallery_image/2015/01/30/img_0818.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Bogazici",
+        "CamLink": "rtmp://95.0.155.24:80/bogazici/bogazici.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Göksun",
+        "CamLink": "rtmp://95.0.155.24:80/goksun/goksun.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Elbistan Meydan",
+        "CamLink": "rtmp://95.0.155.24:80/elbistanmeydan/elbistanmeydan.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Pazarcık",
+        "CamLink": "rtmp://95.0.155.24:80/pazarcik/pazarcik.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Tavsantepe",
+        "CamLink": "rtmp://95.0.155.24:80/tavsantepe/tavsantepe.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "Tekstil Lisesi",
+        "CamLink": "rtmp://95.0.155.24:80/tekstillisesi/tekstillisesi.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 7,
+        "CamName": "DR. Mustafa Meydanı",
+        "CamLink": "rtmp://95.0.155.24:80/drmustafa/drmustafa.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 8,
+        "CamName": "Valilik Kavşağı",
+        "CamLink": "rtmp://95.0.155.24:80/valilik/valilik.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 9,
+        "CamName": "Atatürk Meydanı(Ulucami)",
+        "CamLink": "rtmp://95.0.155.24:80/ulucami/ulucami.stream",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+
+    ]
+  },
+  {
+    "CityId": 70,
+    "CityName": "KARAMAN",
+    "CityImage": "http://festtr.com/wp-content/uploads/2018/09/karaman.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Türk Dili Parkı",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/karamanbel/Turk_dili_parki/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "İsmet Paşa",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/karamanbel/ismet_pasa/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Demokrasi Meydanı",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/karamanbel/Demokrasi_meydani/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 37,
+    "CityName": "KASTAMONU",
+    "CityImage": "http://i2.haber7.com//haber/haber7/photos/2017/47/kastamonu_1511172250_6175.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Ağlı 1",
+        "CamLink": "http://yayin.basturkelektronik.com:8080/live/kastamonuagli.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Ağlı 2",
+        "CamLink": "http://yayin.basturkelektronik.com:8080/live/kastamonuagli2.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 38,
+    "CityName": "KAYSERİ",
+    "CityImage": "http://i.hurimg.com/i/hurriyet/75/590x332/591ebd4d7af50724b078e439.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "KAYSERİ MERKEZ",
+        "CamLink": "https://canli.kayseri.bel.tr:1443/live/smil:2.stream.smil/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "TÖREN ALANI",
+        "CamLink": "https://canli.kayseri.bel.tr:1443/live/TorenAlani1.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "SİVAS CADDESİ",
+        "CamLink": "https://canli.kayseri.bel.tr:1443/live/Nato1.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "KAYSERİ FORUM",
+        "CamLink": "rtmp://www.mesalive.net:1935/live/25.stream",
+        "CamImage": "https://canli.kayseri.bel.tr:1443/live/Nato2.stream/playlist.m3u8",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "MUSTAFA KEMAL PAŞA BLV.",
+        "CamLink": "https://canli.kayseri.bel.tr:1443/live/Nato3.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "KAYSERİ VALİLİK",
+        "CamLink": "https://canli.kayseri.bel.tr:1443/live/1_low.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 7,
+        "CamName": "HUNAT 1",
+        "CamLink": "https://canli.kayseri.bel.tr:1443/live/Hunat1.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 8,
+        "CamName": "HUNAT 2",
+        "CamLink": "https://canli.kayseri.bel.tr:1443/live/Hunat2.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 9,
+        "CamName": "HUNAT 3",
+        "CamLink": "https://canli.kayseri.bel.tr:1443/live/Hunat3.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 10,
+        "CamName": "Erciyes",
+        "CamLink": "https://592d974ad4ee7.streamlock.net/live/10052.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": false,
+        "CamType": 0
+      },
+      {
+        "Id": 11,
+        "CamName": "Otopark Alanı",
+        "CamLink": "https://592d974ad4ee7.streamlock.net/live/10051.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": false,
+        "CamType": 0
+      },
+      {
+        "Id": 12,
+        "CamName": "Çeşmeler",
+        "CamLink": "https://592d974ad4ee7.streamlock.net/live/10053.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": false,
+        "CamType": 0
+      },
+      {
+        "Id": 13,
+        "CamName": "Gondol Alt İstasyonu 2",
+        "CamLink": "https://592d974ad4ee7.streamlock.net/live/10039.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": false,
+        "CamType": 0
+      },
+      {
+        "Id": 14,
+        "CamName": "Gondol Alt İstasyonu 1",
+        "CamLink": "https://592d974ad4ee7.streamlock.net/live/10038.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": false,
+        "CamType": 0
+      },
+      {
+        "Id": 15,
+        "CamName": "Zümrüt Alt İstasyonu",
+        "CamLink": "https://592d974ad4ee7.streamlock.net/live/10044.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": false,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 42,
+    "CityName": "KONYA",
+    "CityImage": "http://supergezginler.com/wp-content/uploads/konya-gezilecek-yerler-12.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Konya üyükşehir Stadyumu",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/540eea6d7e9f3/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Mevalana Üçler Kavşağı",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ac9765db4/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "İhsaniye Kavşağı",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f89f69e3378/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Sille Kavşağı",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8abd1889b0/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Mevlana Meydanı",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ad56da5f9/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "Kule Kavşağı",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ab98bd9de/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 7,
+        "CamName": "Kültürpark",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ab33dccf7/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 8,
+        "CamName": "İstikbal Harbi Şehirler Abidesi",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ab6152788/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 9,
+        "CamName": "Sarraflar Yeraltı Çarşısı",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/57066620cdebc/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 10,
+        "CamName": "Eski Garaj",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8acce91ebc/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 11,
+        "CamName": "Kayalıpark",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ac7f0b9c8/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 12,
+        "CamName": "Mobilyacılar Kavşağı",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f89fa816e2b/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 13,
+        "CamName": "Otogar Kavşağı",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8acff68895/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 14,
+        "CamName": "Hacıveyiszade Camii",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ace7aaa21/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 15,
+        "CamName": "Stadyum-Gar Kavşağı",
+        "CamLink": "",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 16,
+        "CamName": "Hükümet Meydanı",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f89e37d9455/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 17,
+        "CamName": "Mevlana Kültür Merkezi",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ad3d32ad3/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 18,
+        "CamName": "Vatan Caddesi",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ac26649e2/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 19,
+        "CamName": "Nalçacı Caddesi",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ac0de0eb2/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 20,
+        "CamName": "Konya Büyükşehir Belediyesi",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f8ab7ae043e/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 21,
+        "CamName": "Karatay Medresesi",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f89dbda66b7/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 22,
+        "CamName": "Zafer Meydanı Yer Saati",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f0d277cb6b1/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 23,
+        "CamName": "Alaaddin Caddesi",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/52f89f4776f81/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 24,
+        "CamName": "Alaaddin Caddesi 2",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/56ab53773fc0b/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 25,
+        "CamName": "Beyşehir Damlapınar",
+        "CamLink": "http://konya.sehirkameralari.com:1935/live/56ab52e122769/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 26,
+        "CamName": "Beyşehir Doğanay",
+        "CamLink": ">http://konya.sehirkameralari.com:1935/live/56a9e456dee18/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 27,
+        "CamName": "Beyşehir Karahisar",
+        "CamLink": "http://player.sehirkameralari.com/live/553249d2b71b4/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 28,
+        "CamName": "Beyşehir Tarihi Taş Köprü",
+        "CamLink": "http://player.sehirkameralari.com/live/5532492f88eb5/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 29,
+        "CamName": "Beyşehir Huğla",
+        "CamLink": "http://player.sehirkameralari.com/live/562ddb5261225/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 30,
+        "CamName": "Beyşehir Kayabaşı",
+        "CamLink": "http://player.sehirkameralari.com/live/5534c27430118/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 31,
+        "CamName": "Uğur Mumcu Caddesi",
+        "CamLink": "http://player.sehirkameralari.com/live/5532499903ec4/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 32,
+        "CamName": "Beyşehir Üstünler",
+        "CamLink": "http://player.sehirkameralari.com/live/553249b61a753/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 33,
+        "CamName": "Ereğli İstasyon Caddesi",
+        "CamLink": "http://player.sehirkameralari.com/live/539561144602b/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 34,
+        "CamName": "Ereğli Kıbrıs Caddesi",
+        "CamLink": "http://player.sehirkameralari.com/live/55324a1c160ee/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 35,
+        "CamName": "İnönü Caddesi",
+        "CamLink": "http://player.sehirkameralari.com/live/539561eb561c4/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 36,
+        "CamName": "Bayındır Köyü",
+        "CamLink": "http://player.sehirkameralari.com/live/5395624245001/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 43,
+    "CityName": "KÜTAHYA",
+    "CityImage": "https://www.etstur.com/letsgo/wp-content/uploads/2019/01/kutahya-gezilecek-yerler-kutahya-kalesinde-sehre-bakis.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "FSM Bulvarı",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/kutahyabelediyesi/FsmBulvari/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Belediye Önü",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/kutahyabelediyesi/BelediyeOnu/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Döner Gazino",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/kutahyabelediyesi/DonerGazino/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Zafer Meydanı",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/kutahyabelediyesi/ZaferMeydani/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Laleli Kavşağı",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/kutahyabelediyesi/LaleliKavsagi/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "Belediye Binası",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/kutahyabelediyesi/BelediyeBinasi/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+
+    ]
+  },
+  {
+    "CityId": 50,
+    "CityName": "NEVŞEHİR",
+    "CityImage": "http://i.milliyet.com.tr/YeniAnaResim/2017/05/12/fft99_mf9111385.Jpeg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Uçhisar",
+        "CamLink": "http://ms.rade.com.tr/uchisar/uchisar.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Uçhisar 2",
+        "CamLink": "http://ms.rade.com.tr/uchisar/uchisar2.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 51,
+    "CityName": "NİĞDE",
+    "CityImage": "https://upload.wikimedia.org/wikipedia/commons/5/51/Ni%C4%9Fde_kalesi_ve_saat_kulesi.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Bor Sokullu Mehmet Paşa Camii",
+        "CamLink": "http://player.sehirkameralari.com/live/52a5dd21e254f/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Bor Gostivar Şelale Park",
+        "CamLink": "http://player.sehirkameralari.com/live/52a5e43b52f58/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Bor Belediye Caddesi",
+        "CamLink": "http://player.sehirkameralari.com/live/52a5e250d503b/playlist.m3u8?token=",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 53,
+    "CityName": "RİZE",
+    "CityImage": "http://icdn.ensonhaber.com/resimler/diger/s_3927_1.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Cumhuriyet Caddesi",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/cumhuriyet_caddesi/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Deniz Caddesi",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/deniz_caddesi/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Devlet Hastanesi",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/devlet_hastanesi/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 4,
+        "CamName": "Kale",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/kale/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 5,
+        "CamName": "Valilik Otogar Yönü",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/kizilay/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 6,
+        "CamName": "Menderes Bulvarı",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/menderes_bulvari/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 7,
+        "CamName": "Meydan",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/meydan/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 8,
+        "CamName": "Sahil Cami",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/sahil_cami/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 9,
+        "CamName": "Tören Alanı",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/toren_alani/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 10,
+        "CamName": "Ziraat",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/ziraat/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 11,
+        "CamName": "Dağ Başı",
+        "CamLink": "http://cdn-ipkamera.yayin.com.tr/rizebel/dagbasi/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 60,
+    "CityName": "TOKAT",
+    "CityImage": "http://i.hurimg.com/i/hurriyet/75/590x332/5badedddeb10bb2e509883fa.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Cumhuriyet Meydanı",
+        "CamLink": "http://212.156.98.150:1936/Kamera/Meydan.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Tokat Stadyum Önü",
+        "CamLink": "http://212.156.98.150:1936/Kamera/Stadyum.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 3,
+        "CamName": "Tokat Kalesi",
+        "CamLink": "http://212.156.98.150:1936/Kamera/Kale.stream/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  },
+  {
+    "CityId": 66,
+    "CityName": "YOZGAT",
+    "CityImage": "https://univerlist.com/media/cache/8d/7b/8d7b3e1699b332d73644e9a46167a888.jpg",
+    "CamList": [
+      {
+        "Id": 1,
+        "CamName": "Cumhuriyet Meydanı",
+        "CamLink": "http://win11.yayin.com.tr/yozgatbel/YozgatCumhuriyetMeydani/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 2,
+        "CamName": "Nohutlu Tepesi",
+        "CamLink": "http://win11.yayin.com.tr/yozgatbel/yozgat/playlist.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      }
+    ]
+  }
+]
