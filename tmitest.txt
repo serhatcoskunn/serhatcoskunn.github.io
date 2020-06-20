@@ -363,8 +363,8 @@
       },
       {
         "Id": 3,
-        "CamName": "Odtü Yurtlar Bölgesi",
-        "CamLink": "http://teos.cc.metu.edu.tr:1935/yurtlar/yurtlar.stream/playlist.m3u8",
+        "CamName": "Evcil Hayvan Parkı - Flamingolar - Sesli",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2414_flamingolar-sesli/index.m3u8",
         "CamImage": "",
         "Latitude": null,
         "Longitude": null,
@@ -373,8 +373,8 @@
       },
       {
         "Id": 4,
-        "CamName": "Odtü Merkezi Mühendislik",
-        "CamLink": "http://teos.cc.metu.edu.tr:1935/yurtlar/yurtlar.stream/playlist.m3u8",
+        "CamName": "Evcil Hayvan Parkı - Keçiler - Sesli",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2413_keciler-sesli/index.m3u8",
         "CamImage": "",
         "Latitude": null,
         "Longitude": null,
@@ -383,8 +383,8 @@
       },
       {
         "Id": 5,
-        "CamName": "Odtü Merkezi Mühendislik 2",
-        "CamLink": "http://teos.cc.metu.edu.tr:1935/mm2/mm2.stream/playlist.m3u8",
+        "CamName": "Evcil Hayvan Parkı - Midilliler - Sesli",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2411_midilliler-sesli/index.m3u8",
         "CamImage": "",
         "Latitude": null,
         "Longitude": null,
@@ -393,12 +393,372 @@
       },
       {
         "Id": 6,
-        "CamName": "Odtü Merkezi Mühendislik 3",
-        "CamLink": "http://teos.cc.metu.edu.tr:1935/mm3/mm3.stream/playlist.m3u8",
+        "CamName": "Evcil Hayvan Parkı - Taçlı Turnalar - Sesli",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2415_tacli-turnalar-sesli/index.m3u8",
         "CamImage": "",
         "Latitude": null,
         "Longitude": null,
-        "IsActive": false,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 7,
+        "CamName": "50. Yıl Parkı - 14",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2440_50-yil-14/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 8,
+        "CamName": "50. Yıl Parkı - 21",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2438_50-yil-21/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 9,
+        "CamName": "50. Yıl Parkı - 23",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2439_50-yil-23/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 10,
+        "CamName": "50. Yıl Parkı - 02",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2422_50-yil-parki-01/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 11,
+        "CamName": "Ali Dinçer Parkı",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2465_ali-dincer-parki/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 12,
+        "CamName": "Altınpark - 20",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2420_altinpark/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 13,
+        "CamName": "Altınpark - 03",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2421_altinpark-03/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 14,
+        "CamName": "Altınpark - At Tavlası - Sesli",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2407_at-tavlasi-sesli/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 15,
+        "CamName": "Cemre Parkı",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2445_cemre-parki-17/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 16,
+        "CamName": "Demetevler Parkı - 13",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2444_demetevler-parki/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 17,
+        "CamName": "Demetevler Parkı - 12",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2450_demetevler-parki-24/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 18,
+        "CamName": "Demetevler Parkı - 22",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2448_demetevler-parki-25/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 19,
+        "CamName": "Dikmen Vadisi - 12",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2455_dikmen-vadisi-13/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 20,
+        "CamName": "Dikmen Vadisi - 19",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2453_dikmen-vadisi-19/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 21,
+        "CamName": "Dikmen Vadisi - 25",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2452_dikmen-vadisi-25/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 22,
+        "CamName": "Dikmen Vadisi - 22",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2454_dikmen-vadisi-25/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 23,
+        "CamName": "Dikmen Vadisi - 30",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2451_dikmen-vadisi-30/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 24,
+        "CamName": "Esertepe - 19",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2475_esertepe-18/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 25,
+        "CamName": "Esertepe - Genel - Sesli",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2402_esertepe-genel-sesli/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 26,
+        "CamName": "Esertepe - 21",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2476_esretepe-21/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 27,
+        "CamName": "Gençlik Parkı - 01",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2419_genclik-parki-01/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 28,
+        "CamName": "Gençlik Parkı - 18",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2428_genclik-parki-14/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 29,
+        "CamName": "Gençlik Parkı - 21",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2425_genclik-parki-21/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 30,
+        "CamName": "Gençlik Parkı - 22",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2426_genclik-parki-22/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 31,
+        "CamName": "Gökçek Parkı - 13",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2442_gokcek-parki-18/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 32,
+        "CamName": "Gökçek Parkı - 17",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2441_gokcek-parki-19/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 33,
+        "CamName": "Keçiören Evcil Hayvalar - 18",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2435_kecioren-evcil-hayvalar-18/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 34,
+        "CamName": "Keçiören Evcil Hayvalar - 14",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2436_kecioren-evcil-hayvanlar-14/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 35,
+        "CamName": "Kuzey Yıldızı Parkı",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2462_kuzey-yildizi-parki-21/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 36,
+        "CamName": "Nevbahçe Parkı",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2463_nevbahce-parki-20/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 37,
+        "CamName": "Öveçler Vadisi1 - 02",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2429_ovecler-vadisi1-02/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 38,
+        "CamName": "Öveçler Vadisi1 - 05",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2430_ovecler-vadisi1-05/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 39,
+        "CamName": "Öveçler Vadisi1 - 24",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2431_ovecler-vadisi1-24/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 40,
+        "CamName": "Öveçler Vadisi2",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2433_ovecler-vadisi2-21/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 41,
+        "CamName": "Seğmenler Parkı - 02",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2423_segmenler-parki-02/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
+        "CamType": 0
+      },
+      {
+        "Id": 42,
+        "CamName": "Seğmenler Parkı - 03",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2424_segmenler-parki-03/index.m3u8",
+        "CamImage": "",
+        "Latitude": null,
+        "Longitude": null,
+        "IsActive": true,
         "CamType": 0
       }
     ]
