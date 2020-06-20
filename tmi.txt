@@ -3837,7 +3837,7 @@
   {
     "CityId": 66,
     "CityName": "YOZGAT",
-    "CityImage": "https://univerlist.com/media/cache/8d/7b/8d7b3e1699b332d73644e9a46167a888.jpg",
+    "CityImage": "https://univerlist.com/media/cache/d3/74/d37438435bd21258109d74c07dc51d38.webp",
     "CamList": [
       {
         "Id": 1,
