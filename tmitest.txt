@@ -343,8 +343,8 @@
     "CamList": [
       {
         "Id": 1,
-        "CamName": "Odtü Bilgi İşlem Dairesi",
-        "CamLink": "http://teos.cc.metu.edu.tr:1935/bidb/bidb.stream/playlist.m3u8",
+        "CamName": "Sincan Barınak",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2418_kus-bakisi/index.m3u8",
         "CamImage": "",
         "Latitude": null,
         "Longitude": null,
@@ -353,8 +353,8 @@
       },
       {
         "Id": 2,
-        "CamName": "Odtü Eğitim Fakültesi",
-        "CamLink": "http://teos.cc.metu.edu.tr:1935/egitim/egitim.stream/playlist.m3u8",
+        "CamName": "Hacı Bayram-ı Veli Camii ve Turbesi - Sesli",
+        "CamLink": "http://176.235.156.229:8080/permabil/h_2406_haci-bayram-i-veli-camii-ve-turbesi-sesli/index.m3u8",
         "CamImage": "",
         "Latitude": null,
         "Longitude": null,
