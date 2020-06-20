@@ -770,8 +770,8 @@
     "CamList": [
       {
         "Id": 1,
-        "CamName": "Alanya-Rıhtım",
-        "CamLink": "https://stream.hosthane.com/WebRTCApp/streams/969345961350232170571803.m3u8",
+        "CamName": "Alanya-Rıhtım 1",
+        "CamLink": "https://cdn-ipkamera.yayin.com.tr/alanyacanliyayin/rihtim/media_w1196986727_9191.ts?anahtar=t3g5HxnJywnrwMSqeQ0c3g&sure=1592703606&ip=95.70.130.183t3g5HxnJywnrwMSqeQ0c3g&sure=1592703606&ip=95.70.130.183",
         "CamImage": "",
         "Latitude": null,
         "Longitude": null,
