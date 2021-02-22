@@ -1,0 +1,8 @@
+{
+  "isForceUpdate": false,
+  "isPackageOpen": false,
+  "isThereError": false,
+  "isChangeBase": false,
+  "baseUrl": "http://serhatcoskun.com/",
+  "errorText": "test error"
+}
