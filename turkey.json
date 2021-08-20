@@ -1,0 +1,1512 @@
+[
+  {
+    "Id": 0,
+    "CamLink": "http://78.178.185.26:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.178.185.26:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.041028E+07,
+    "Longitude": 2.667083E+07,
+    "CountryCode": "tr",
+    "Region": "Canakkale",
+    "CamType": 0
+  },
+  {
+    "Id": 1,
+    "CamLink": "http://88.249.206.4:88/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.249.206.4:88/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.909514E+07,
+    "Longitude": 3.307989E+07,
+    "CountryCode": "tr",
+    "Region": "Konya",
+    "CamType": 0
+  },
+  {
+    "Id": 2,
+    "CamLink": "http://176.236.117.187:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://176.236.117.187:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 3,
+    "CamLink": "http://78.189.124.129:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.189.124.129:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.873222E+07,
+    "Longitude": 3.548528E+07,
+    "CountryCode": "tr",
+    "Region": "Kayseri",
+    "CamType": 0
+  },
+  {
+    "Id": 4,
+    "CamLink": "http://188.3.149.134:85/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://188.3.149.134:85/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 5,
+    "CamLink": "http://78.189.60.126:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.189.60.126:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.808877E+07,
+    "Longitude": 2.773508E+07,
+    "CountryCode": "tr",
+    "Region": "Izmir",
+    "CamType": 0
+  },
+  {
+    "Id": 6,
+    "CamLink": "http://78.187.133.110:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://78.187.133.110:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.073583E+07,
+    "Longitude": 3.160611E+07,
+    "CountryCode": "tr",
+    "Region": "Bolu",
+    "CamType": 0
+  },
+  {
+    "Id": 7,
+    "CamLink": "http://46.197.172.35:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://46.197.172.35:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 8,
+    "CamLink": "http://78.188.189.182:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.188.189.182:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 9,
+    "CamLink": "http://85.105.88.17:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://85.105.88.17:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 10,
+    "CamLink": "http://78.186.217.10:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.186.217.10:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.690812E+07,
+    "Longitude": 3.069556E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 0
+  },
+  {
+    "Id": 11,
+    "CamLink": "http://85.106.8.176:8081/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://85.106.8.176:8081/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 12,
+    "CamLink": "http://88.248.17.169:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.248.17.169:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.679526E+07,
+    "Longitude": 3.461792E+07,
+    "CountryCode": "tr",
+    "Region": "Mersin",
+    "CamType": 0
+  },
+  {
+    "Id": 13,
+    "CamLink": "http://81.215.230.134:8000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://81.215.230.134:8000/record/current.jpg",
+    "Latitude": 3.777417E+07,
+    "Longitude": 2.90875E+07,
+    "CountryCode": "tr",
+    "Region": "Denizli",
+    "CamType": 1
+  },
+  {
+    "Id": 14,
+    "CamLink": "http://188.124.14.124:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://188.124.14.124:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.019167E+07,
+    "Longitude": 2.906111E+07,
+    "CountryCode": "tr",
+    "Region": "Bursa",
+    "CamType": 0
+  },
+  {
+    "Id": 15,
+    "CamLink": "http://78.187.178.121:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.187.178.121:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.791583E+07,
+    "Longitude": 4.021889E+07,
+    "CountryCode": "tr",
+    "Region": "Diyarbakir",
+    "CamType": 0
+  },
+  {
+    "Id": 16,
+    "CamLink": "http://212.154.58.90:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://212.154.58.90:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 17,
+    "CamLink": "http://88.249.192.66:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.249.192.66:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.6855E+07,
+    "Longitude": 2.827417E+07,
+    "CountryCode": "tr",
+    "Region": "Mugla",
+    "CamType": 0
+  },
+  {
+    "Id": 18,
+    "CamLink": "http://91.93.58.42:82/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://91.93.58.42:82/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.690812E+07,
+    "Longitude": 3.069556E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 0
+  },
+  {
+    "Id": 19,
+    "CamLink": "http://88.247.225.144:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.247.225.144:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 20,
+    "CamLink": "http://85.99.247.110:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://85.99.247.110:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.019167E+07,
+    "Longitude": 2.906111E+07,
+    "CountryCode": "tr",
+    "Region": "Bursa",
+    "CamType": 0
+  },
+  {
+    "Id": 21,
+    "CamLink": "http://95.6.46.94:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://95.6.46.94:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.959611E+07,
+    "Longitude": 2.702444E+07,
+    "CountryCode": "tr",
+    "Region": "Balikesir",
+    "CamType": 0
+  },
+  {
+    "Id": 22,
+    "CamLink": "http://95.9.58.56:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://95.9.58.56:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 23,
+    "CamLink": "http://78.186.112.3:8090/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://78.186.112.3:8090/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 24,
+    "CamLink": "http://85.105.126.183:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://85.105.126.183:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 25,
+    "CamLink": "http://88.249.201.175:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.249.201.175:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.992054E+07,
+    "Longitude": 4.06952E+07,
+    "CountryCode": "tr",
+    "Region": "Erzurum",
+    "CamType": 0
+  },
+  {
+    "Id": 26,
+    "CamLink": "http://5.11.163.171:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://5.11.163.171:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 27,
+    "CamLink": "http://5.11.163.171:8090/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://5.11.163.171:8090/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 28,
+    "CamLink": "http://95.0.247.36:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://95.0.247.36:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 29,
+    "CamLink": "http://78.188.140.36:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://78.188.140.36:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 3.955833E+07,
+    "Longitude": 2.709833E+07,
+    "CountryCode": "tr",
+    "Region": "Balikesir",
+    "CamType": 0
+  },
+  {
+    "Id": 30,
+    "CamLink": "http://78.187.168.94:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://78.187.168.94:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.873222E+07,
+    "Longitude": 3.548528E+07,
+    "CountryCode": "tr",
+    "Region": "Kayseri",
+    "CamType": 0
+  },
+  {
+    "Id": 31,
+    "CamLink": "http://212.252.22.56:8083/oneshotimage1?COUNTER",
+    "CamImage": "http://212.252.22.56:8083/oneshotimage1?COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 32,
+    "CamLink": "http://46.252.101.35:83/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://46.252.101.35:83/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.679526E+07,
+    "Longitude": 3.461792E+07,
+    "CountryCode": "tr",
+    "Region": "Mersin",
+    "CamType": 0
+  },
+  {
+    "Id": 33,
+    "CamLink": "http://85.99.229.164:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://85.99.229.164:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.009972E+07,
+    "Longitude": 26396668.0,
+    "CountryCode": "tr",
+    "Region": "Canakkale",
+    "CamType": 0
+  },
+  {
+    "Id": 34,
+    "CamLink": "http://188.59.205.154:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://188.59.205.154:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 35,
+    "CamLink": "http://213.153.223.2:884/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://213.153.223.2:884/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 36,
+    "CamLink": "http://159.146.54.17:8000/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://159.146.54.17:8000/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 37,
+    "CamLink": "http://176.33.94.154:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://176.33.94.154:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 38,
+    "CamLink": "http://178.233.241.105:85/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://178.233.241.105:85/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.841273E+07,
+    "Longitude": 2.713838E+07,
+    "CountryCode": "tr",
+    "Region": "Izmir",
+    "CamType": 0
+  },
+  {
+    "Id": 39,
+    "CamLink": "http://78.187.141.95:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.187.141.95:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 40,
+    "CamLink": "http://78.186.150.68:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://78.186.150.68:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 41,
+    "CamLink": "http://78.186.144.58:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://78.186.144.58:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.849944E+07,
+    "Longitude": 2.968361E+07,
+    "CountryCode": "tr",
+    "Region": "Usak",
+    "CamType": 0
+  },
+  {
+    "Id": 42,
+    "CamLink": "http://85.105.34.173:91/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://85.105.34.173:91/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.75485E+07,
+    "Longitude": 3.539603E+07,
+    "CountryCode": "tr",
+    "Region": "Adana",
+    "CamType": 0
+  },
+  {
+    "Id": 43,
+    "CamLink": "http://78.187.29.147:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://78.187.29.147:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.705944E+07,
+    "Longitude": 3.73825E+07,
+    "CountryCode": "tr",
+    "Region": "Gaziantep",
+    "CamType": 0
+  },
+  {
+    "Id": 44,
+    "CamLink": "http://88.247.104.62:90/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://88.247.104.62:90/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 45,
+    "CamLink": "http://78.189.212.216:88/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://78.189.212.216:88/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 4.084639E+07,
+    "Longitude": 2.930889E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 46,
+    "CamLink": "http://88.225.211.189:8080/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://88.225.211.189:8080/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 47,
+    "CamLink": "http://212.108.144.172:8080/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://212.108.144.172:8080/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.026444E+07,
+    "Longitude": 2.965306E+07,
+    "CountryCode": "tr",
+    "Region": "Bursa",
+    "CamType": 0
+  },
+  {
+    "Id": 48,
+    "CamLink": "http://185.123.2.133:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://185.123.2.133:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.876995E+07,
+    "Longitude": 3.82712E+07,
+    "CountryCode": "tr",
+    "Region": "Malatya",
+    "CamType": 0
+  },
+  {
+    "Id": 49,
+    "CamLink": "http://178.233.241.105:88/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://178.233.241.105:88/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.841273E+07,
+    "Longitude": 2.713838E+07,
+    "CountryCode": "tr",
+    "Region": "Izmir",
+    "CamType": 0
+  },
+  {
+    "Id": 50,
+    "CamLink": "http://81.215.196.21:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://81.215.196.21:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 51,
+    "CamLink": "http://5.26.146.208:9000/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://5.26.146.208:9000/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 0.0,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 52,
+    "CamLink": "http://85.105.138.186:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://85.105.138.186:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 53,
+    "CamLink": "http://81.215.212.192:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://81.215.212.192:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.081861E+07,
+    "Longitude": 3.961361E+07,
+    "CountryCode": "tr",
+    "Region": "Trabzon",
+    "CamType": 0
+  },
+  {
+    "Id": 54,
+    "CamLink": "http://176.40.125.171:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://176.40.125.171:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.86296E+07,
+    "Longitude": 3.491198E+07,
+    "CountryCode": "tr",
+    "Region": "Nevsehir",
+    "CamType": 0
+  },
+  {
+    "Id": 55,
+    "CamLink": "http://85.104.57.162:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://85.104.57.162:50000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 3.703833E+07,
+    "Longitude": 2.742917E+07,
+    "CountryCode": "tr",
+    "Region": "Mugla",
+    "CamType": 0
+  },
+  {
+    "Id": 56,
+    "CamLink": "http://78.187.42.95:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.187.42.95:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 57,
+    "CamLink": "http://188.59.192.29:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
+    "CamImage": "http://188.59.192.29:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
+    "Latitude": 3.784501E+07,
+    "Longitude": 2.783963E+07,
+    "CountryCode": "tr",
+    "Region": "Aydin",
+    "CamType": 1
+  },
+  {
+    "Id": 58,
+    "CamLink": "http://185.233.245.11:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://185.233.245.11:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 59,
+    "CamLink": "http://81.214.110.13:8001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://81.214.110.13:8001/record/current.jpg",
+    "Latitude": 3.842621E+07,
+    "Longitude": 2.741731E+07,
+    "CountryCode": "tr",
+    "Region": "Izmir",
+    "CamType": 1
+  },
+  {
+    "Id": 60,
+    "CamLink": "http://5.11.230.157:8081/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://5.11.230.157:8081/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 61,
+    "CamLink": "http://88.249.202.154:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://88.249.202.154:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.914583E+07,
+    "Longitude": 3.416389E+07,
+    "CountryCode": "tr",
+    "Region": "Kirsehir",
+    "CamType": 0
+  },
+  {
+    "Id": 62,
+    "CamLink": "http://176.235.185.112:81/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://176.235.185.112:81/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 63,
+    "CamLink": "http://5.26.231.192:85/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://5.26.231.192:85/record/current.jpg",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 1
+  },
+  {
+    "Id": 64,
+    "CamLink": "http://212.133.246.138:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://212.133.246.138:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.013512E+07,
+    "Longitude": 3.308614E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 65,
+    "CamLink": "http://31.169.88.17:81/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://31.169.88.17:81/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 66,
+    "CamLink": "http://81.215.215.16:84/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://81.215.215.16:84/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.787135E+07,
+    "Longitude": 3.248464E+07,
+    "CountryCode": "tr",
+    "Region": "Konya",
+    "CamType": 0
+  },
+  {
+    "Id": 67,
+    "CamLink": "http://85.97.194.11:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://85.97.194.11:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 68,
+    "CamLink": "http://178.242.65.156:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://178.242.65.156:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 69,
+    "CamLink": "http://78.189.239.143:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://78.189.239.143:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 3.721807E+07,
+    "Longitude": 2.83665E+07,
+    "CountryCode": "tr",
+    "Region": "Mugla",
+    "CamType": 0
+  },
+  {
+    "Id": 70,
+    "CamLink": "http://78.189.11.121:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://78.189.11.121:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.062015E+07,
+    "Longitude": 2.922536E+07,
+    "CountryCode": "tr",
+    "Region": "Yalova",
+    "CamType": 0
+  },
+  {
+    "Id": 71,
+    "CamLink": "http://78.188.137.80:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.188.137.80:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.115917E+07,
+    "Longitude": 2.78E+07,
+    "CountryCode": "tr",
+    "Region": "Tekirdag",
+    "CamType": 0
+  },
+  {
+    "Id": 72,
+    "CamLink": "http://88.247.20.41:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.247.20.41:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.866072E+07,
+    "Longitude": 3.292437E+07,
+    "CountryCode": "tr",
+    "Region": "Konya",
+    "CamType": 0
+  },
+  {
+    "Id": 73,
+    "CamLink": "http://78.189.111.151:81/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://78.189.111.151:81/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.071604E+07,
+    "Longitude": 2.975223E+07,
+    "CountryCode": "tr",
+    "Region": "Kocaeli",
+    "CamType": 0
+  },
+  {
+    "Id": 74,
+    "CamLink": "http://85.105.236.94:80/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://85.105.236.94:80/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 1
+  },
+  {
+    "Id": 75,
+    "CamLink": "http://212.50.57.87:91/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://212.50.57.87:91/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 76,
+    "CamLink": "http://78.187.177.75:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.187.177.75:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.974833E+07,
+    "Longitude": 3.701611E+07,
+    "CountryCode": "tr",
+    "Region": "Sivas",
+    "CamType": 0
+  },
+  {
+    "Id": 77,
+    "CamLink": "http://78.189.176.73:85/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://78.189.176.73:85/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 3.990778E+07,
+    "Longitude": 3.003667E+07,
+    "CountryCode": "tr",
+    "Region": "Bilecik",
+    "CamType": 0
+  },
+  {
+    "Id": 78,
+    "CamLink": "http://78.189.15.47:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.189.15.47:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.136315E+07,
+    "Longitude": 4.167652E+07,
+    "CountryCode": "tr",
+    "Region": "Artvin",
+    "CamType": 0
+  },
+  {
+    "Id": 79,
+    "CamLink": "http://85.96.204.51:85/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://85.96.204.51:85/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 3.678667E+07,
+    "Longitude": 3.144306E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 0
+  },
+  {
+    "Id": 80,
+    "CamLink": "http://88.250.83.159:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.250.83.159:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 81,
+    "CamLink": "http://78.187.10.155:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.187.10.155:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.679526E+07,
+    "Longitude": 3.461792E+07,
+    "CountryCode": "tr",
+    "Region": "Mersin",
+    "CamType": 0
+  },
+  {
+    "Id": 82,
+    "CamLink": "http://78.187.177.75:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.187.177.75:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.974833E+07,
+    "Longitude": 3.701611E+07,
+    "CountryCode": "tr",
+    "Region": "Sivas",
+    "CamType": 0
+  },
+  {
+    "Id": 83,
+    "CamLink": "http://213.14.131.78:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://213.14.131.78:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 84,
+    "CamLink": "http://95.9.139.31:81/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://95.9.139.31:81/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.091639E+07,
+    "Longitude": 3.851444E+07,
+    "CountryCode": "tr",
+    "Region": "Giresun",
+    "CamType": 0
+  },
+  {
+    "Id": 85,
+    "CamLink": "http://46.1.113.13:5000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://46.1.113.13:5000/record/current.jpg",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 1
+  },
+  {
+    "Id": 86,
+    "CamLink": "http://85.105.7.9:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://85.105.7.9:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 87,
+    "CamLink": "http://31.210.156.188:80/mjpg/video.mjpg",
+    "CamImage": "http://31.210.156.188:80/jpg/image.jpg",
+    "Latitude": 4.065502E+07,
+    "Longitude": 2.927693E+07,
+    "CountryCode": "tr",
+    "Region": "Yalova",
+    "CamType": 1
+  },
+  {
+    "Id": 88,
+    "CamLink": "http://85.97.187.137:83/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://85.97.187.137:83/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.0685E+07,
+    "Longitude": 3.062222E+07,
+    "CountryCode": "tr",
+    "Region": "Sakarya",
+    "CamType": 0
+  },
+  {
+    "Id": 89,
+    "CamLink": "http://5.11.147.128:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://5.11.147.128:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 90,
+    "CamLink": "http://85.105.0.105:82/mjpg/video.mjpg",
+    "CamImage": "http://85.105.0.105:82/jpg/image.jpg",
+    "Latitude": 3.678667E+07,
+    "Longitude": 0.0,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 1
+  },
+  {
+    "Id": 91,
+    "CamLink": "http://78.186.188.19:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.186.188.19:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.019167E+07,
+    "Longitude": 2.906111E+07,
+    "CountryCode": "tr",
+    "Region": "Bursa",
+    "CamType": 0
+  },
+  {
+    "Id": 92,
+    "CamLink": "http://88.247.127.5:5000/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://88.247.127.5:5000/record/current.jpg",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 1
+  },
+  {
+    "Id": 93,
+    "CamLink": "http://92.44.60.3:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://92.44.60.3:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 94,
+    "CamLink": "http://176.235.156.164:83/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://176.235.156.164:83/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 95,
+    "CamLink": "http://88.250.37.15:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.250.37.15:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.678667E+07,
+    "Longitude": 3.144306E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 0
+  },
+  {
+    "Id": 96,
+    "CamLink": "http://213.14.161.15:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://213.14.161.15:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 3.705944E+07,
+    "Longitude": 3.73825E+07,
+    "CountryCode": "tr",
+    "Region": "Gaziantep",
+    "CamType": 0
+  },
+  {
+    "Id": 97,
+    "CamLink": "http://88.250.37.15:8000/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.250.37.15:8000/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.678667E+07,
+    "Longitude": 3.144306E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 0
+  },
+  {
+    "Id": 98,
+    "CamLink": "http://212.175.191.3:5004/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.175.191.3:5004/record/current.jpg",
+    "Latitude": 3.705944E+07,
+    "Longitude": 3.73825E+07,
+    "CountryCode": "tr",
+    "Region": "Gaziantep",
+    "CamType": 1
+  },
+  {
+    "Id": 99,
+    "CamLink": "http://212.156.48.218:5004/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.156.48.218:5004/record/current.jpg",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 1
+  },
+  {
+    "Id": 100,
+    "CamLink": "http://212.156.48.218:5003/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.156.48.218:5003/record/current.jpg",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 1
+  },
+  {
+    "Id": 101,
+    "CamLink": "http://85.97.130.233:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://85.97.130.233:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.975222E+07,
+    "Longitude": 3.949278E+07,
+    "CountryCode": "tr",
+    "Region": "Erzincan",
+    "CamType": 0
+  },
+  {
+    "Id": 102,
+    "CamLink": "http://92.44.163.123:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://92.44.163.123:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.686278E+07,
+    "Longitude": 3.105556E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 0
+  },
+  {
+    "Id": 103,
+    "CamLink": "http://85.105.107.103:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://85.105.107.103:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.662167E+07,
+    "Longitude": 2.911639E+07,
+    "CountryCode": "tr",
+    "Region": "Mugla",
+    "CamType": 0
+  },
+  {
+    "Id": 104,
+    "CamLink": "http://88.249.200.90:83/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://88.249.200.90:83/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.128667E+07,
+    "Longitude": 3.633E+07,
+    "CountryCode": "tr",
+    "Region": "Samsun",
+    "CamType": 0
+  },
+  {
+    "Id": 105,
+    "CamLink": "http://85.96.181.82:50000/oneshotimage1?COUNTER",
+    "CamImage": "http://85.96.181.82:50000/oneshotimage1?COUNTER",
+    "Latitude": 3.99179E+07,
+    "Longitude": 3.286268E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 106,
+    "CamLink": "http://88.248.17.71:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.248.17.71:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.700167E+07,
+    "Longitude": 3.532889E+07,
+    "CountryCode": "tr",
+    "Region": "Adana",
+    "CamType": 0
+  },
+  {
+    "Id": 107,
+    "CamLink": "http://95.6.90.38:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://95.6.90.38:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.942417E+07,
+    "Longitude": 2.998333E+07,
+    "CountryCode": "tr",
+    "Region": "Kutahya",
+    "CamType": 0
+  },
+  {
+    "Id": 108,
+    "CamLink": "http://95.9.139.31:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://95.9.139.31:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.1005E+07,
+    "Longitude": 3.972694E+07,
+    "CountryCode": "tr",
+    "Region": "Trabzon",
+    "CamType": 0
+  },
+  {
+    "Id": 109,
+    "CamLink": "http://78.186.165.23:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.186.165.23:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.841273E+07,
+    "Longitude": 2.713838E+07,
+    "CountryCode": "tr",
+    "Region": "Izmir",
+    "CamType": 0
+  },
+  {
+    "Id": 110,
+    "CamLink": "http://95.9.64.208:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://95.9.64.208:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.705944E+07,
+    "Longitude": 3.73825E+07,
+    "CountryCode": "tr",
+    "Region": "Gaziantep",
+    "CamType": 0
+  },
+  {
+    "Id": 111,
+    "CamLink": "http://213.254.142.254:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://213.254.142.254:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 112,
+    "CamLink": "http://78.189.212.216:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://78.189.212.216:81/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 4.084639E+07,
+    "Longitude": 2.930889E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 113,
+    "CamLink": "http://85.104.100.184:8000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://85.104.100.184:8000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 4.096072E+07,
+    "Longitude": 2.927067E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 114,
+    "CamLink": "http://93.89.68.106:85/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://93.89.68.106:85/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.977667E+07,
+    "Longitude": 3.052056E+07,
+    "CountryCode": "tr",
+    "Region": "Eskisehir",
+    "CamType": 0
+  },
+  {
+    "Id": 115,
+    "CamLink": "http://81.213.157.86:90/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://81.213.157.86:90/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.09833E+07,
+    "Longitude": 2.91167E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 116,
+    "CamLink": "http://88.247.127.5:6001/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://88.247.127.5:6001/record/current.jpg",
+    "Latitude": 4.1285E+07,
+    "Longitude": 2.800028E+07,
+    "CountryCode": "tr",
+    "Region": "Tekirdag",
+    "CamType": 1
+  },
+  {
+    "Id": 117,
+    "CamLink": "http://212.15.30.185:81/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://212.15.30.185:81/record/current.jpg",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 1
+  },
+  {
+    "Id": 118,
+    "CamLink": "http://95.9.47.137:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://95.9.47.137:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.835018E+07,
+    "Longitude": 3.831667E+07,
+    "CountryCode": "tr",
+    "Region": "Malatya",
+    "CamType": 0
+  },
+  {
+    "Id": 119,
+    "CamLink": "http://78.186.1.99:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.186.1.99:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 120,
+    "CamLink": "http://85.96.181.82:50001/oneshotimage1?COUNTER",
+    "CamImage": "http://85.96.181.82:50001/oneshotimage1?COUNTER",
+    "Latitude": 3.99179E+07,
+    "Longitude": 3.286268E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 121,
+    "CamLink": "http://31.223.12.40:1024/img/video.mjpeg",
+    "CamImage": "http://31.223.12.40:1024/img/video.mjpeg",
+    "Latitude": 3.796583E+07,
+    "Longitude": 3.467935E+07,
+    "CountryCode": "tr",
+    "Region": "Nigde",
+    "CamType": 1
+  },
+  {
+    "Id": 122,
+    "CamLink": "http://95.9.96.3:91/mjpg/video.mjpg",
+    "CamImage": "http://95.9.96.3:91/jpg/image.jpg",
+    "Latitude": 3.700167E+07,
+    "Longitude": 3.532889E+07,
+    "CountryCode": "tr",
+    "Region": "Adana",
+    "CamType": 1
+  },
+  {
+    "Id": 123,
+    "CamLink": "http://81.215.198.177:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://81.215.198.177:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 124,
+    "CamLink": "http://78.186.7.161:8001/oneshotimage1?COUNTER",
+    "CamImage": "http://78.186.7.161:8001/oneshotimage1?COUNTER",
+    "Latitude": 3.691876E+07,
+    "Longitude": 3.48784E+07,
+    "CountryCode": "tr",
+    "Region": "Mersin",
+    "CamType": 0
+  },
+  {
+    "Id": 125,
+    "CamLink": "http://95.70.204.124:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://95.70.204.124:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 126,
+    "CamLink": "http://78.188.239.112:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.188.239.112:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.075481E+07,
+    "Longitude": 4.023552E+07,
+    "CountryCode": "tr",
+    "Region": "Trabzon",
+    "CamType": 0
+  },
+  {
+    "Id": 127,
+    "CamLink": "http://95.9.143.108:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://95.9.143.108:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.966028E+07,
+    "Longitude": 3.588361E+07,
+    "CountryCode": "tr",
+    "Region": "Yozgat",
+    "CamType": 0
+  },
+  {
+    "Id": 128,
+    "CamLink": "http://88.247.177.88:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.247.177.88:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.062015E+07,
+    "Longitude": 2.922536E+07,
+    "CountryCode": "tr",
+    "Region": "Yalova",
+    "CamType": 0
+  },
+  {
+    "Id": 129,
+    "CamLink": "http://78.187.175.60:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.187.175.60:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.992371E+07,
+    "Longitude": 4.4045E+07,
+    "CountryCode": "tr",
+    "Region": "Igdir",
+    "CamType": 0
+  },
+  {
+    "Id": 130,
+    "CamLink": "http://212.156.175.18:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://212.156.175.18:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.103333E+07,
+    "Longitude": 2.867528E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 131,
+    "CamLink": "http://78.187.76.3:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.187.76.3:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.128667E+07,
+    "Longitude": 3.633E+07,
+    "CountryCode": "tr",
+    "Region": "Samsun",
+    "CamType": 0
+  },
+  {
+    "Id": 132,
+    "CamLink": "http://85.99.121.200:50001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://85.99.121.200:50001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 3.979043E+07,
+    "Longitude": 3.280903E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 133,
+    "CamLink": "http://78.186.16.162:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.186.16.162:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.700167E+07,
+    "Longitude": 3.532889E+07,
+    "CountryCode": "tr",
+    "Region": "Adana",
+    "CamType": 0
+  },
+  {
+    "Id": 134,
+    "CamLink": "http://78.186.16.162:5000/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.186.16.162:5000/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.700167E+07,
+    "Longitude": 3.532889E+07,
+    "CountryCode": "tr",
+    "Region": "Adana",
+    "CamType": 0
+  },
+  {
+    "Id": 135,
+    "CamLink": "http://92.44.191.187:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://92.44.191.187:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.841273E+07,
+    "Longitude": 2.713838E+07,
+    "CountryCode": "tr",
+    "Region": "Izmir",
+    "CamType": 0
+  },
+  {
+    "Id": 136,
+    "CamLink": "http://78.187.121.162:81/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://78.187.121.162:81/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.994044E+07,
+    "Longitude": 3.291012E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 137,
+    "CamLink": "http://212.154.88.129:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://212.154.88.129:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.101384E+07,
+    "Longitude": 2.894966E+07,
+    "CountryCode": "tr",
+    "Region": "Istanbul",
+    "CamType": 0
+  },
+  {
+    "Id": 138,
+    "CamLink": "http://95.9.152.108:86/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://95.9.152.108:86/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.019167E+07,
+    "Longitude": 2.906111E+07,
+    "CountryCode": "tr",
+    "Region": "Bursa",
+    "CamType": 0
+  },
+  {
+    "Id": 139,
+    "CamLink": "http://85.105.204.100:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://85.105.204.100:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.676672E+07,
+    "Longitude": 3.138852E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 0
+  },
+  {
+    "Id": 140,
+    "CamLink": "http://88.247.194.249:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://88.247.194.249:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 3.964917E+07,
+    "Longitude": 2.788611E+07,
+    "CountryCode": "tr",
+    "Region": "Balikesir",
+    "CamType": 0
+  },
+  {
+    "Id": 141,
+    "CamLink": "http://212.175.206.56:80/mjpg/video.mjpg",
+    "CamImage": "http://212.175.206.56:80/jpg/image.jpg",
+    "Latitude": 3.690812E+07,
+    "Longitude": 3.069556E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 1
+  },
+  {
+    "Id": 142,
+    "CamLink": "http://78.187.206.201:8082/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://78.187.206.201:8082/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 143,
+    "CamLink": "http://78.187.206.201:8083/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://78.187.206.201:8083/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 144,
+    "CamLink": "http://78.187.206.201:8084/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://78.187.206.201:8084/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 0
+  },
+  {
+    "Id": 145,
+    "CamLink": "http://88.248.245.202:8084/mjpg/video.mjpg",
+    "CamImage": "http://88.248.245.202:8084/jpg/image.jpg",
+    "Latitude": 3.782985E+07,
+    "Longitude": 3.246777E+07,
+    "CountryCode": "tr",
+    "Region": "Konya",
+    "CamType": 1
+  },
+  {
+    "Id": 146,
+    "CamLink": "http://212.175.206.54:80/mjpg/video.mjpg",
+    "CamImage": "http://212.175.206.54:80/jpg/image.jpg",
+    "Latitude": 3.690812E+07,
+    "Longitude": 3.069556E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 1
+  },
+  {
+    "Id": 147,
+    "CamLink": "http://212.175.206.55:80/mjpg/video.mjpg",
+    "CamImage": "http://212.175.206.55:80/jpg/image.jpg",
+    "Latitude": 3.690812E+07,
+    "Longitude": 3.069556E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 1
+  },
+  {
+    "Id": 148,
+    "CamLink": "http://212.175.206.57:80/mjpg/video.mjpg",
+    "CamImage": "http://212.175.206.57:80/jpg/image.jpg",
+    "Latitude": 3.690812E+07,
+    "Longitude": 3.069556E+07,
+    "CountryCode": "tr",
+    "Region": "Antalya",
+    "CamType": 1
+  },
+  {
+    "Id": 149,
+    "CamLink": "http://78.186.26.188:80/mjpg/video.mjpg",
+    "CamImage": "http://78.186.26.188:80/jpg/image.jpg",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 1
+  },
+  {
+    "Id": 150,
+    "CamLink": "http://88.246.12.99:81/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://88.246.12.99:81/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 3.991987E+07,
+    "Longitude": 3.285427E+07,
+    "CountryCode": "tr",
+    "Region": "Ankara",
+    "CamType": 1
+  }
+]
