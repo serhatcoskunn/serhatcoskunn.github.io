@@ -1,0 +1,362 @@
+[
+  {
+    "Id": 0,
+    "CamLink": "http://218.103.147.112:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://218.103.147.112:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 2.232138E+07,
+    "Longitude": 1.141726E+08,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 1,
+    "CamLink": "http://119.236.159.103:8081/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://119.236.159.103:8081/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 2,
+    "CamLink": "http://58.152.12.48:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://58.152.12.48:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 3,
+    "CamLink": "http://203.218.108.16:8080/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://203.218.108.16:8080/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 2.225E+07,
+    "Longitude": 114133328.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 4,
+    "CamLink": "http://110.4.18.183:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://110.4.18.183:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 5,
+    "CamLink": "http://210.17.205.141:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://210.17.205.141:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 6,
+    "CamLink": "http://42.200.177.103:8082/img/video.mjpeg",
+    "CamImage": "http://42.200.177.103:8082/img/video.mjpeg",
+    "Latitude": 2.236667E+07,
+    "Longitude": 114116672.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 1
+  },
+  {
+    "Id": 7,
+    "CamLink": "http://61.92.202.166:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://61.92.202.166:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 8,
+    "CamLink": "http://210.6.233.29:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://210.6.233.29:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 9,
+    "CamLink": "http://210.5.186.34:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://210.5.186.34:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 10,
+    "CamLink": "http://203.80.236.56:8080/?action=stream",
+    "CamImage": "http://203.80.236.56:8080/?action=snapshot",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 1
+  },
+  {
+    "Id": 11,
+    "CamLink": "http://110.4.13.205:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://110.4.13.205:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 12,
+    "CamLink": "http://110.4.13.205:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://110.4.13.205:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 13,
+    "CamLink": "http://143.89.144.171:8080/?action=stream",
+    "CamImage": "http://143.89.144.171:8080/?action=snapshot",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 1
+  },
+  {
+    "Id": 14,
+    "CamLink": "http://183.178.103.134:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://183.178.103.134:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 2.225E+07,
+    "Longitude": 1.1415E+08,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 15,
+    "CamLink": "http://110.4.13.201:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://110.4.13.201:8082/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 16,
+    "CamLink": "http://110.4.13.201:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://110.4.13.201:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 17,
+    "CamLink": "http://183.178.98.189:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://183.178.98.189:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 18,
+    "CamLink": "http://185.175.78.190:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://185.175.78.190:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 19,
+    "CamLink": "http://42.200.246.88:8001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://42.200.246.88:8001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 20,
+    "CamLink": "http://61.15.171.75:50001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://61.15.171.75:50001/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 21,
+    "CamLink": "http://58.177.52.56:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://58.177.52.56:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 22,
+    "CamLink": "http://42.200.144.41:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://42.200.144.41:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 23,
+    "CamLink": "http://42.200.88.167:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://42.200.88.167:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 24,
+    "CamLink": "http://42.200.246.88:8000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://42.200.246.88:8000/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 25,
+    "CamLink": "http://58.177.44.45:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://58.177.44.45:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 26,
+    "CamLink": "http://58.177.230.218:80/img/video.mjpeg",
+    "CamImage": "http://58.177.230.218:80/img/video.mjpeg",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 1
+  },
+  {
+    "Id": 27,
+    "CamLink": "http://103.30.71.181:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://103.30.71.181:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 28,
+    "CamLink": "http://103.225.21.170:88/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://103.225.21.170:88/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 29,
+    "CamLink": "http://61.238.120.140:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://61.238.120.140:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong",
+    "CamType": 0
+  },
+  {
+    "Id": 30,
+    "CamLink": "http://42.200.144.41:83/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://42.200.144.41:83/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong (Sar)",
+    "CamType": 0
+  },
+  {
+    "Id": 31,
+    "CamLink": "http://61.244.50.210:5000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://61.244.50.210:5000/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong (Sar)",
+    "CamType": 0
+  },
+  {
+    "Id": 32,
+    "CamLink": "http://123.202.179.155:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://123.202.179.155:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong (Sar)",
+    "CamType": 0
+  },
+  {
+    "Id": 33,
+    "CamLink": "http://14.0.135.27:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://14.0.135.27:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 2.231667E+07,
+    "Longitude": 114183328.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong (Sar)",
+    "CamType": 0
+  },
+  {
+    "Id": 34,
+    "CamLink": "http://221.126.238.156:8080/mjpg/video.mjpg",
+    "CamImage": "http://221.126.238.156:8080/jpg/image.jpg",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong (Sar)",
+    "CamType": 1
+  },
+  {
+    "Id": 35,
+    "CamLink": "http://218.188.218.238:80/mjpg/video.mjpg",
+    "CamImage": "http://218.188.218.238:80/jpg/image.jpg",
+    "Latitude": 2.228552E+07,
+    "Longitude": 114157688.0,
+    "CountryCode": "hk",
+    "Region": "Hong Kong (Sar)",
+    "CamType": 1
+  }
+]
