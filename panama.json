@@ -1,1 +1,102 @@
-
+[
+  {
+    "Id": 0,
+    "CamLink": "http://186.75.10.105:80/img/video.mjpeg",
+    "CamImage": "http://186.75.10.105:80/img/video.mjpeg",
+    "Latitude": 8993600.0,
+    "Longitude": -7.951973E+07,
+    "CountryCode": "pa",
+    "Region": "Panama",
+    "CamType": 1
+  },
+  {
+    "Id": 1,
+    "CamLink": "http://190.219.154.103:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://190.219.154.103:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 8993600.0,
+    "Longitude": -7.951973E+07,
+    "CountryCode": "pa",
+    "Region": "Panama",
+    "CamType": 0
+  },
+  {
+    "Id": 2,
+    "CamLink": "http://200.75.246.79:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://200.75.246.79:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 8050000.0,
+    "Longitude": -8.093333E+07,
+    "CountryCode": "pa",
+    "Region": "Veraguas",
+    "CamType": 0
+  },
+  {
+    "Id": 3,
+    "CamLink": "http://200.75.243.152:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://200.75.243.152:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 9376390.0,
+    "Longitude": -7.979111E+07,
+    "CountryCode": "pa",
+    "Region": "Colon",
+    "CamType": 0
+  },
+  {
+    "Id": 4,
+    "CamLink": "http://190.34.50.46:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://190.34.50.46:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 8993600.0,
+    "Longitude": -7.951973E+07,
+    "CountryCode": "pa",
+    "Region": "Panama",
+    "CamType": 0
+  },
+  {
+    "Id": 5,
+    "CamLink": "http://186.73.235.232:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://186.73.235.232:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 8993600.0,
+    "Longitude": -7.951973E+07,
+    "CountryCode": "pa",
+    "Region": "Panama",
+    "CamType": 0
+  },
+  {
+    "Id": 6,
+    "CamLink": "http://190.34.90.204:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://190.34.90.204:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 8993600.0,
+    "Longitude": -7.951973E+07,
+    "CountryCode": "pa",
+    "Region": "Panama",
+    "CamType": 0
+  },
+  {
+    "Id": 7,
+    "CamLink": "http://201.226.189.234:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://201.226.189.234:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 8993600.0,
+    "Longitude": -7.951973E+07,
+    "CountryCode": "pa",
+    "Region": "Panama",
+    "CamType": 0
+  },
+  {
+    "Id": 8,
+    "CamLink": "http://190.33.204.88:8888/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "CamImage": "http://190.33.204.88:8888/SnapshotJPEG?Resolution=640x480&amp;Quality=Clarity&amp;COUNTER",
+    "Latitude": 8993600.0,
+    "Longitude": -7.951973E+07,
+    "CountryCode": "pa",
+    "Region": "Panama",
+    "CamType": 0
+  },
+  {
+    "Id": 9,
+    "CamLink": "http://200.46.196.243:80/mjpg/video.mjpg",
+    "CamImage": "http://200.46.196.243:80/jpg/image.jpg",
+    "Latitude": 8993600.0,
+    "Longitude": -7.951973E+07,
+    "CountryCode": "pa",
+    "Region": "Panama",
+    "CamType": 1
+  }
+]
