@@ -1,0 +1,468 @@
+CamLink = http://218.103.147.112:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Mong Kok
+Latitude = 22.321380
+Longitude = 114.172600
+ZIP = -
+Timezone = +08:00
+Manufacturer = Defeway
+
+
+
+CamLink = http://119.236.159.103:8081/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = PanasonicHD
+
+
+
+CamLink = http://58.152.12.48:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Defeway
+
+
+
+CamLink = http://203.218.108.16:8080/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Wah Fu
+Latitude = 22.250000
+Longitude = 114.133330
+ZIP = -
+Timezone = +08:00
+Manufacturer = PanasonicHD
+
+
+
+CamLink = http://110.4.18.183:80/cgi-bin/viewer/video.jpg?r=COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Vivotek
+
+
+
+CamLink = http://210.17.205.141:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Defeway
+
+
+
+CamLink = http://42.200.177.103:8082/img/video.mjpeg
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Sam Tung Uk
+Latitude = 22.366670
+Longitude = 114.116670
+ZIP = -
+Timezone = +08:00
+Manufacturer = Linksys
+
+
+
+CamLink = http://61.92.202.166:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Defeway
+
+
+
+CamLink = http://210.6.233.29:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Defeway
+
+
+
+CamLink = http://210.5.186.34:80/cgi-bin/viewer/video.jpg?r=COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Vivotek
+
+
+
+CamLink = http://203.80.236.56:8080/?action=stream
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Streamer
+
+
+
+CamLink = http://110.4.13.205:8081/cgi-bin/viewer/video.jpg?r=COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Vivotek
+
+
+
+CamLink = http://110.4.13.205:8082/cgi-bin/viewer/video.jpg?r=COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Vivotek
+
+
+
+CamLink = http://143.89.144.171:8080/?action=stream
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Streamer
+
+
+
+CamLink = http://183.178.103.134:80/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Yue Kwong Chuen
+Latitude = 22.250000
+Longitude = 114.150000
+ZIP = -
+Timezone = +08:00
+Manufacturer = Defeway
+
+
+
+CamLink = http://110.4.13.201:8082/cgi-bin/viewer/video.jpg?r=COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Vivotek
+
+
+
+CamLink = http://110.4.13.201:8081/cgi-bin/viewer/video.jpg?r=COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Vivotek
+
+
+
+CamLink = http://183.178.98.189:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Defeway
+
+
+
+CamLink = http://185.175.78.190:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Defeway
+
+
+
+CamLink = http://42.200.246.88:8001/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = PanasonicHD
+
+
+
+CamLink = http://61.15.171.75:50001/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = PanasonicHD
+
+
+
+CamLink = http://58.177.52.56:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Defeway
+
+
+
+CamLink = http://42.200.144.41:80/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = PanasonicHD
+
+
+
+CamLink = http://42.200.88.167:80/cgi-bin/viewer/video.jpg?r=COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Vivotek
+
+
+
+CamLink = http://42.200.246.88:8000/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = PanasonicHD
+
+
+
+CamLink = http://58.177.44.45:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Defeway
+
+
+
+CamLink = http://58.177.230.218:80/img/video.mjpeg
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Linksys
+
+
+
+CamLink = http://103.30.71.181:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Hi3516
+
+
+
+CamLink = http://103.225.21.170:88/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Hi3516
+
+
+
+CamLink = http://61.238.120.140:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Vivotek
+
+
+
+CamLink = http://42.200.144.41:83/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong (Sar)
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = PanasonicHD
+
+
+
+CamLink = http://61.244.50.210:5000/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong (Sar)
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Panasonic
+
+
+
+CamLink = http://123.202.179.155:80/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong (Sar)
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = PanasonicHD
+
+
+
+CamLink = http://14.0.135.27:80/cgi-bin/viewer/video.jpg?r=COUNTER
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong (Sar)
+City =  Kowloon
+Latitude = 22.316670
+Longitude = 114.183330
+ZIP = -
+Timezone = +08:00
+Manufacturer = Vivotek
+
+
+
+CamLink = http://221.126.238.156:8080/mjpg/video.mjpg
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong (Sar)
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Axis
+
+
+
+CamLink = http://218.188.218.238:80/mjpg/video.mjpg
+Country = Hong Kong
+Country code = HK
+Region = Hong Kong (Sar)
+City =  Hong Kong
+Latitude = 22.285520
+Longitude = 114.157690
+ZIP = -
+Timezone = +08:00
+Manufacturer = Axis
+
+
+
