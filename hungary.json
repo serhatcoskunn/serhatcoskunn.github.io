@@ -1,0 +1,722 @@
+[
+  {
+    "Id": 0,
+    "CamLink": "http://94.21.52.145:86/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://94.21.52.145:86/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.6253E+07,
+    "Longitude": 2.014824E+07,
+    "CountryCode": "hu",
+    "Region": "Csongrad",
+    "CamType": 0
+  },
+  {
+    "Id": 1,
+    "CamLink": "http://84.224.178.146:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://84.224.178.146:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.77928E+07,
+    "Longitude": 1.874148E+07,
+    "CountryCode": "hu",
+    "Region": "Komarom-Esztergom",
+    "CamType": 0
+  },
+  {
+    "Id": 2,
+    "CamLink": "http://84.224.178.146:82/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://84.224.178.146:82/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.77928E+07,
+    "Longitude": 1.874148E+07,
+    "CountryCode": "hu",
+    "Region": "Komarom-Esztergom",
+    "CamType": 0
+  },
+  {
+    "Id": 3,
+    "CamLink": "http://94.248.238.128:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://94.248.238.128:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.795539E+07,
+    "Longitude": 2.171671E+07,
+    "CountryCode": "hu",
+    "Region": "Szabolcs-Szatmar-Bereg",
+    "CamType": 0
+  },
+  {
+    "Id": 4,
+    "CamLink": "http://195.38.127.132:89/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://195.38.127.132:89/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 5,
+    "CamLink": "http://185.81.22.98:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://185.81.22.98:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 6,
+    "CamLink": "http://84.224.117.107:8082/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://84.224.117.107:8082/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 7,
+    "CamLink": "http://91.83.160.123:8888/mjpg/video.mjpg",
+    "CamImage": "http://91.83.160.123:8888/jpg/image.jpg",
+    "Latitude": 4.668333E+07,
+    "Longitude": 2.11E+07,
+    "CountryCode": "hu",
+    "Region": "Bekes",
+    "CamType": 1
+  },
+  {
+    "Id": 8,
+    "CamLink": "http://80.98.62.64:8080/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://80.98.62.64:8080/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.721667E+07,
+    "Longitude": 2.155E+07,
+    "CountryCode": "hu",
+    "Region": "Hajdu-Bihar",
+    "CamType": 0
+  },
+  {
+    "Id": 9,
+    "CamLink": "http://176.63.123.109:80/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://176.63.123.109:80/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 10,
+    "CamLink": "http://31.24.19.216:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://31.24.19.216:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.825E+07,
+    "Longitude": 2.063333E+07,
+    "CountryCode": "hu",
+    "Region": "Borsod-Abauj-Zemplen",
+    "CamType": 0
+  },
+  {
+    "Id": 11,
+    "CamLink": "http://188.36.49.65:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://188.36.49.65:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.742931E+07,
+    "Longitude": 1.891356E+07,
+    "CountryCode": "hu",
+    "Region": "Pest",
+    "CamType": 0
+  },
+  {
+    "Id": 12,
+    "CamLink": "http://141.98.249.28:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://141.98.249.28:8080/record/current.jpg",
+    "Latitude": 4.653796E+07,
+    "Longitude": 1.718094E+07,
+    "CountryCode": "hu",
+    "Region": "Zala",
+    "CamType": 1
+  },
+  {
+    "Id": 13,
+    "CamLink": "http://89.251.41.154:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://89.251.41.154:80/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.774318E+07,
+    "Longitude": 1.811913E+07,
+    "CountryCode": "hu",
+    "Region": "Komarom-Esztergom",
+    "CamType": 0
+  },
+  {
+    "Id": 14,
+    "CamLink": "http://188.6.250.62:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://188.6.250.62:80/record/current.jpg",
+    "Latitude": 4.616667E+07,
+    "Longitude": 2.058333E+07,
+    "CountryCode": "hu",
+    "Region": "Csongrad",
+    "CamType": 1
+  },
+  {
+    "Id": 15,
+    "CamLink": "http://80.98.139.18:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://80.98.139.18:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.81E+07,
+    "Longitude": 2.078333E+07,
+    "CountryCode": "hu",
+    "Region": "Borsod-Abauj-Zemplen",
+    "CamType": 0
+  },
+  {
+    "Id": 16,
+    "CamLink": "http://78.139.57.45:9000/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://78.139.57.45:9000/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 17,
+    "CamLink": "http://185.27.61.122:82/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://185.27.61.122:82/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.742931E+07,
+    "Longitude": 1.891356E+07,
+    "CountryCode": "hu",
+    "Region": "Pest",
+    "CamType": 0
+  },
+  {
+    "Id": 18,
+    "CamLink": "http://213.16.96.207:84/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://213.16.96.207:84/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.636667E+07,
+    "Longitude": 1.78E+07,
+    "CountryCode": "hu",
+    "Region": "Somogy",
+    "CamType": 0
+  },
+  {
+    "Id": 19,
+    "CamLink": "http://81.22.185.21:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://81.22.185.21:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.695261E+07,
+    "Longitude": 1.627358E+07,
+    "CountryCode": "hu",
+    "Region": "Vas",
+    "CamType": 0
+  },
+  {
+    "Id": 20,
+    "CamLink": "http://176.63.123.18:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://176.63.123.18:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 21,
+    "CamLink": "http://46.139.8.206:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://46.139.8.206:80/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 22,
+    "CamLink": "http://188.156.86.173:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://188.156.86.173:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 23,
+    "CamLink": "http://89.132.208.169:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://89.132.208.169:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 24,
+    "CamLink": "http://46.107.222.146:82/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://46.107.222.146:82/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.702133E+07,
+    "Longitude": 1.956171E+07,
+    "CountryCode": "hu",
+    "Region": "Bacs-Kiskun",
+    "CamType": 0
+  },
+  {
+    "Id": 25,
+    "CamLink": "http://46.35.202.96:1024/img/video.mjpeg",
+    "CamImage": "http://46.35.202.96:1024/img/video.mjpeg",
+    "Latitude": 4.656667E+07,
+    "Longitude": 2.066667E+07,
+    "CountryCode": "hu",
+    "Region": "Bekes",
+    "CamType": 1
+  },
+  {
+    "Id": 26,
+    "CamLink": "http://5.187.150.85:8081/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://5.187.150.85:8081/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.742931E+07,
+    "Longitude": 1.891356E+07,
+    "CountryCode": "hu",
+    "Region": "Pest",
+    "CamType": 0
+  },
+  {
+    "Id": 27,
+    "CamLink": "http://188.142.255.59:81/videostream.cgi?user=admin&pwd=",
+    "CamImage": "http://188.142.255.59:81/snapshot.jpg?user=admin&pwd=",
+    "Latitude": 4.723855E+07,
+    "Longitude": 1.865484E+07,
+    "CountryCode": "hu",
+    "Region": "Fejer",
+    "CamType": 1
+  },
+  {
+    "Id": 28,
+    "CamLink": "http://46.139.77.189:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://46.139.77.189:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.6253E+07,
+    "Longitude": 2.014824E+07,
+    "CountryCode": "hu",
+    "Region": "Csongrad",
+    "CamType": 0
+  },
+  {
+    "Id": 29,
+    "CamLink": "http://212.51.120.117:8888/out.jpg?q=30&id=0.1317044913727916&r=COUNTER",
+    "CamImage": "http://212.51.120.117:8888/out.jpg?q=30&id=0.1317044913727916&r=COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 30,
+    "CamLink": "http://46.139.134.74:8082/shot.jpg?rnd=654321",
+    "CamImage": "http://46.139.134.74:8082/shot.jpg?rnd=654321",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 31,
+    "CamLink": "http://78.92.144.39:1024/img/video.mjpeg",
+    "CamImage": "http://78.92.144.39:1024/img/video.mjpeg",
+    "Latitude": 4.641667E+07,
+    "Longitude": 2.033333E+07,
+    "CountryCode": "hu",
+    "Region": "Csongrad",
+    "CamType": 1
+  },
+  {
+    "Id": 32,
+    "CamLink": "http://195.228.133.187:80/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "CamImage": "http://195.228.133.187:80/snap.jpg?JpegSize=M&JpegCam=1&r=COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 33,
+    "CamLink": "http://188.156.212.106:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://188.156.212.106:80/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.608333E+07,
+    "Longitude": 1.823333E+07,
+    "CountryCode": "hu",
+    "Region": "Baranya",
+    "CamType": 0
+  },
+  {
+    "Id": 34,
+    "CamLink": "http://87.229.54.154:8083/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://87.229.54.154:8083/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 35,
+    "CamLink": "http://80.98.84.83:8080/cam_1.cgi",
+    "CamImage": "http://80.98.84.83:8080/cam_1.cgi",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 36,
+    "CamLink": "http://85.66.220.32:81/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://85.66.220.32:81/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 37,
+    "CamLink": "http://195.199.93.178:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://195.199.93.178:80/record/current.jpg",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 38,
+    "CamLink": "http://91.83.69.167:88/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "CamImage": "http://91.83.69.167:88/webcapture.jpg?command=snap&channel=1?COUNTER",
+    "Latitude": 4.6253E+07,
+    "Longitude": 2.014824E+07,
+    "CountryCode": "hu",
+    "Region": "Csongrad",
+    "CamType": 0
+  },
+  {
+    "Id": 39,
+    "CamLink": "http://213.16.87.163:9000/mjpg/video.mjpg",
+    "CamImage": "http://213.16.87.163:9000/jpg/image.jpg",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 40,
+    "CamLink": "http://87.229.3.132:80/mjpg/video.mjpg",
+    "CamImage": "http://87.229.3.132:80/jpg/image.jpg",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 41,
+    "CamLink": "http://81.183.212.102:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "CamImage": "http://81.183.212.102:60001/cgi-bin/snapshot.cgi?chn=0&u=admin&p=&q=0&COUNTER",
+    "Latitude": 4.741667E+07,
+    "Longitude": 2.116667E+07,
+    "CountryCode": "hu",
+    "Region": "Hajdu-Bihar",
+    "CamType": 0
+  },
+  {
+    "Id": 42,
+    "CamLink": "http://152.66.24.162:8081/?action=stream",
+    "CamImage": "http://152.66.24.162:8081/?action=snapshot",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 43,
+    "CamLink": "http://85.119.11.164:2003/mjpg/video.mjpg",
+    "CamImage": "http://85.119.11.164:2003/jpg/image.jpg",
+    "Latitude": 4.81E+07,
+    "Longitude": 2.078333E+07,
+    "CountryCode": "hu",
+    "Region": "Borsod-Abauj-Zemplen",
+    "CamType": 1
+  },
+  {
+    "Id": 44,
+    "CamLink": "http://85.119.11.164:2002/mjpg/video.mjpg",
+    "CamImage": "http://85.119.11.164:2002/jpg/image.jpg",
+    "Latitude": 4.81E+07,
+    "Longitude": 2.078333E+07,
+    "CountryCode": "hu",
+    "Region": "Borsod-Abauj-Zemplen",
+    "CamType": 1
+  },
+  {
+    "Id": 45,
+    "CamLink": "http://193.91.66.100:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://193.91.66.100:80/record/current.jpg",
+    "Latitude": 4.745E+07,
+    "Longitude": 2.14E+07,
+    "CountryCode": "hu",
+    "Region": "Hajdu-Bihar",
+    "CamType": 1
+  },
+  {
+    "Id": 46,
+    "CamLink": "http://31.46.3.76:8888/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "CamImage": "http://31.46.3.76:8888/jpgmulreq/1/image.jpg?key=1516975535684&lq=1&COUNTER",
+    "Latitude": 4.83E+07,
+    "Longitude": 2.073333E+07,
+    "CountryCode": "hu",
+    "Region": "Borsod-Abauj-Zemplen",
+    "CamType": 0
+  },
+  {
+    "Id": 47,
+    "CamLink": "http://89.135.122.113:83/img/video.mjpeg",
+    "CamImage": "http://89.135.122.113:83/img/video.mjpeg",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 48,
+    "CamLink": "http://79.121.65.6:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://79.121.65.6:8080/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.690412E+07,
+    "Longitude": 1.8058E+07,
+    "CountryCode": "hu",
+    "Region": "Somogy",
+    "CamType": 0
+  },
+  {
+    "Id": 49,
+    "CamLink": "http://79.121.65.6:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://79.121.65.6:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.690412E+07,
+    "Longitude": 1.8058E+07,
+    "CountryCode": "hu",
+    "Region": "Somogy",
+    "CamType": 0
+  },
+  {
+    "Id": 50,
+    "CamLink": "http://84.2.59.250:1080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://84.2.59.250:1080/record/current.jpg",
+    "Latitude": 4.690412E+07,
+    "Longitude": 1.8058E+07,
+    "CountryCode": "hu",
+    "Region": "Somogy",
+    "CamType": 1
+  },
+  {
+    "Id": 51,
+    "CamLink": "http://82.141.143.138:8888/?action=stream",
+    "CamImage": "http://82.141.143.138:8888/?action=snapshot",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 52,
+    "CamLink": "http://152.66.39.137:80/mjpeg.cgi",
+    "CamImage": "http://152.66.39.137:80/image.jpg",
+    "Latitude": 4.748299E+07,
+    "Longitude": 1.906591E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 53,
+    "CamLink": "http://84.1.35.137:8888/?action=stream",
+    "CamImage": "http://84.1.35.137:8888/?action=snapshot",
+    "Latitude": 4.748919E+07,
+    "Longitude": 1.907012E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 54,
+    "CamLink": "http://193.224.51.18:80/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "CamImage": "http://193.224.51.18:80/axis-cgi/mjpg/video.cgi?camera=&resolution=640x480",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 0
+  },
+  {
+    "Id": 55,
+    "CamLink": "http://79.120.134.229:8080/cam_1.cgi",
+    "CamImage": "http://79.120.134.229:8080/cam_1.cgi",
+    "Latitude": 4.746181E+07,
+    "Longitude": 1.895845E+07,
+    "CountryCode": "hu",
+    "Region": "Pest",
+    "CamType": 1
+  },
+  {
+    "Id": 56,
+    "CamLink": "http://78.131.88.37:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://78.131.88.37:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.81E+07,
+    "Longitude": 2.078333E+07,
+    "CountryCode": "hu",
+    "Region": "Borsod-Abauj-Zemplen",
+    "CamType": 0
+  },
+  {
+    "Id": 57,
+    "CamLink": "http://91.120.63.29:80/mjpg/video.mjpg",
+    "CamImage": "http://91.120.63.29:80/jpg/image.jpg",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 58,
+    "CamLink": "http://217.65.117.21:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://217.65.117.21:8081/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.807296E+07,
+    "Longitude": 1.929614E+07,
+    "CountryCode": "hu",
+    "Region": "Nograd",
+    "CamType": 0
+  },
+  {
+    "Id": 59,
+    "CamLink": "http://79.120.134.227:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://79.120.134.227:80/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.746181E+07,
+    "Longitude": 1.895845E+07,
+    "CountryCode": "hu",
+    "Region": "Pest",
+    "CamType": 0
+  },
+  {
+    "Id": 60,
+    "CamLink": "http://212.92.13.148:81/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "CamImage": "http://212.92.13.148:81/cgi-bin/viewer/video.jpg?r=COUNTER",
+    "Latitude": 4.732579E+07,
+    "Longitude": 1.892142E+07,
+    "CountryCode": "hu",
+    "Region": "Pest",
+    "CamType": 0
+  },
+  {
+    "Id": 61,
+    "CamLink": "http://88.210.150.70:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://88.210.150.70:8080/record/current.jpg",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "-",
+    "CamType": 1
+  },
+  {
+    "Id": 62,
+    "CamLink": "http://178.48.15.45:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1000000000",
+    "CamImage": "http://178.48.15.45:80/-wvhttp-01-/GetOneShot?image_size=640x480&frame_count=1",
+    "Latitude": 4.746181E+07,
+    "Longitude": 1.895845E+07,
+    "CountryCode": "hu",
+    "Region": "Pest",
+    "CamType": 1
+  },
+  {
+    "Id": 63,
+    "CamLink": "http://87.229.33.30:80/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER",
+    "CamImage": "http://87.229.33.30:80/record/current.jpg",
+    "Latitude": 4.816374E+07,
+    "Longitude": 1.982303E+07,
+    "CountryCode": "hu",
+    "Region": "Nograd",
+    "CamType": 1
+  },
+  {
+    "Id": 64,
+    "CamLink": "http://81.183.210.157:80/mjpg/video.mjpg",
+    "CamImage": "http://81.183.210.157:80/jpg/image.jpg",
+    "Latitude": 4.807532E+07,
+    "Longitude": 2.180625E+07,
+    "CountryCode": "hu",
+    "Region": "Szabolcs-Szatmar-Ber",
+    "CamType": 1
+  },
+  {
+    "Id": 65,
+    "CamLink": "http://160.114.89.36:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "CamImage": "http://160.114.89.36:80/cgi-bin/camera?resolution=640&amp;quality=1&amp;Language=0&amp;COUNTER",
+    "Latitude": 4.6253E+07,
+    "Longitude": 2.014824E+07,
+    "CountryCode": "hu",
+    "Region": "Csongrad",
+    "CamType": 0
+  },
+  {
+    "Id": 66,
+    "CamLink": "http://87.101.127.24:80/mjpg/video.mjpg",
+    "CamImage": "http://87.101.127.24:80/jpg/image.jpg",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 67,
+    "CamLink": "http://193.224.128.90:80/mjpg/video.mjpg",
+    "CamImage": "http://193.224.128.90:80/jpg/image.jpg",
+    "Latitude": 4.768333E+07,
+    "Longitude": 1.763512E+07,
+    "CountryCode": "hu",
+    "Region": "Gyor-Moson-Sopron",
+    "CamType": 1
+  },
+  {
+    "Id": 68,
+    "CamLink": "http://195.228.161.126:8080/mjpg/video.mjpg",
+    "CamImage": "http://195.228.161.126:8080/jpg/image.jpg",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  },
+  {
+    "Id": 69,
+    "CamLink": "http://85.119.12.44:2000/mjpg/video.mjpg",
+    "CamImage": "http://85.119.12.44:2000/jpg/image.jpg",
+    "Latitude": 4.816667E+07,
+    "Longitude": 2.073333E+07,
+    "CountryCode": "hu",
+    "Region": "Borsod-Abauj-Zemplen",
+    "CamType": 1
+  },
+  {
+    "Id": 70,
+    "CamLink": "http://46.35.192.141:80/mjpg/video.mjpg",
+    "CamImage": "http://46.35.192.141:80/jpg/image.jpg",
+    "Latitude": 4.6253E+07,
+    "Longitude": 2.014824E+07,
+    "CountryCode": "hu",
+    "Region": "Csongrad",
+    "CamType": 1
+  },
+  {
+    "Id": 71,
+    "CamLink": "http://193.6.11.238:80/mjpg/video.mjpg",
+    "CamImage": "http://193.6.11.238:80/jpg/image.jpg",
+    "Latitude": 4.749801E+07,
+    "Longitude": 1.903991E+07,
+    "CountryCode": "hu",
+    "Region": "Budapest",
+    "CamType": 1
+  }
+]
